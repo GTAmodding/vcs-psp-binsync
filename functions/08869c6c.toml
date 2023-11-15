@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x8869c6c
+size = 0x3c4
+last_change = 2023-11-15T18:08:59.393244Z
+
+[header]
+last_change = 2023-11-15T18:08:55.068248Z
+name = "CTheScripts::SaveAllScripts"
+addr = 0x8869c6c
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "_BYTE *"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "_DWORD *"
+size = 0x4
