@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x8809600
+size = 0x270
+last_change = 2023-11-15T18:09:00.075867Z
+
+[header]
+last_change = 2023-11-15T18:08:53.771701Z
+name = "CColStore::LoadCollision"
+addr = 0x8809600
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "float *"
+size = 0x4
