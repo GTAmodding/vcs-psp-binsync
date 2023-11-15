@@ -1,0 +1,10 @@
+[metadata]
+addr = 0x8af445c
+size = 0x20
+last_change = 2023-11-15T18:15:19.253548Z
+
+[header]
+last_change = 2023-11-15T18:10:23.293745Z
+name = "CSprite2d::IsVertexBufferFull"
+addr = 0x8af445c
+type = "BOOL"
