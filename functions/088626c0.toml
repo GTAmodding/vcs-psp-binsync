@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x88626c0
+size = 0x38
+last_change = 2023-11-15T18:09:32.992326Z
+
+[header]
+last_change = 2023-11-15T18:09:17.682366Z
+name = "CRunningScript::RemoveScriptFromList"
+addr = 0x88626c0
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "_DWORD *"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "_DWORD *"
+size = 0x4
