@@ -1,0 +1,28 @@
+[metadata]
+addr = 0x884edf4
+size = 0x13c
+last_change = 2023-11-15T18:09:15.548711Z
+
+[header]
+last_change = 2023-11-15T18:08:53.885106Z
+name = "CMenuManager::PrintStats"
+addr = 0x884edf4
+type = "short *"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "unsigned short"
+size = 0x2
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "double"
+size = 0x8
