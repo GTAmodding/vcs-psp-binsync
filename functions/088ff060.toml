@@ -1,0 +1,71 @@
+[metadata]
+addr = 0x88ff060
+size = 0x40
+last_change = 2023-11-15T18:10:34.622798Z
+
+[header]
+last_change = 2023-11-15T18:09:20.063266Z
+name = "CParticle::AddParticle"
+addr = 0x88ff060
+type = "int"
+
+[stack_vars.-0x4]
+offset = 0x10
+name = "v10"
+type = "char[4]"
+size = 0x4
+addr = 0x88ff060
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "_DWORD *"
+size = 0x4
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "int"
+size = 0x4
+
+[header.args.3]
+offset = 0x3
+name = "a4"
+type = "int"
+size = 0x4
+
+[header.args.4]
+offset = 0x4
+name = "a5"
+type = "int"
+size = 0x4
+
+[header.args.5]
+offset = 0x5
+name = "a6"
+type = "short"
+size = 0x2
+
+[header.args.6]
+offset = 0x6
+name = "a7"
+type = "int"
+size = 0x4
+
+[header.args.7]
+offset = 0x7
+name = "a8"
+type = "int"
+size = 0x4
+
+[header.args.8]
+offset = 0x8
+name = "a9"
+type = "double"
+size = 0x8
