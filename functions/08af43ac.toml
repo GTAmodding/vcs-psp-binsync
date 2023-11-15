@@ -1,48 +1,48 @@
 [metadata]
-addr = 0x8af4ee4
-size = 0x20c
-last_change = 2023-11-15T18:08:41.193061Z
+addr = 0x8af43ac
+size = 0xb0
+last_change = 2023-11-15T18:10:58.777760Z
 
 [header]
-last_change = 2023-11-15T18:08:27.986469Z
-name = "CSprite2d::SetVertices"
-addr = 0x8af4ee4
+last_change = 2023-11-15T18:10:23.155210Z
+name = "CSprite2d::AddToBuffer"
+addr = 0x8af43ac
 type = "int"
 
 [header.args.0]
 offset = 0x0
 name = "a1"
-type = "int"
+type = "float *"
 size = 0x4
 
 [header.args.1]
 offset = 0x1
 name = "a2"
-type = "float *"
+type = "char *"
 size = 0x4
 
 [header.args.2]
 offset = 0x2
 name = "a3"
-type = "char *"
+type = "float"
 size = 0x4
 
 [header.args.3]
 offset = 0x3
 name = "a4"
-type = "char *"
+type = "float"
 size = 0x4
 
 [header.args.4]
 offset = 0x4
 name = "a5"
-type = "char *"
+type = "float"
 size = 0x4
 
 [header.args.5]
 offset = 0x5
 name = "a6"
-type = "char *"
+type = "float"
 size = 0x4
 
 [header.args.6]
@@ -66,29 +66,5 @@ size = 0x4
 [header.args.9]
 offset = 0x9
 name = "a10"
-type = "float"
-size = 0x4
-
-[header.args.22]
-offset = 0xa
-name = "a11"
-type = "float"
-size = 0x4
-
-[header.args.23]
-offset = 0xb
-name = "a12"
-type = "float"
-size = 0x4
-
-[header.args.24]
-offset = 0xc
-name = "a13"
-type = "float"
-size = 0x4
-
-[header.args.25]
-offset = 0xd
-name = "a14"
 type = "float"
 size = 0x4
