@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x8aec884
+size = 0xac
+last_change = 2023-11-15T18:12:30.436573Z
+
+[header]
+last_change = 2023-11-15T18:11:54.097109Z
+name = "CModelInfo::Load"
+addr = 0x8aec884
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "int"
+size = 0x4
