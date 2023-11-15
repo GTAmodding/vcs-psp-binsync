@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x894628c
+size = 0x5c
+last_change = 2023-11-15T18:12:37.954172Z
+
+[header]
+last_change = 2023-11-15T18:09:50.335589Z
+name = "CVisibilityComponents::RenderAlphaElement"
+addr = 0x894628c
+type = "int"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "int"
+size = 0x4
