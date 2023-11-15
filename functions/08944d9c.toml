@@ -1,0 +1,10 @@
+[metadata]
+addr = 0x8944d9c
+size = 0x190
+last_change = 2023-11-15T18:10:50.112442Z
+
+[header]
+last_change = 2023-11-15T18:09:47.268859Z
+name = "CVisibilityComponents::Initialise"
+addr = 0x8944d9c
+type = "void"
