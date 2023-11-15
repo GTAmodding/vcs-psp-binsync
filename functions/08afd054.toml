@@ -1,4 +1,99 @@
 [metadata]
 addr = 0x8afd054
 size = 0x714
-last_change = 2023-11-15T18:08:34.220978Z
+last_change = 2023-11-15T18:10:09.487583Z
+
+[header]
+last_change = 2023-11-15T18:08:56.881848Z
+name = "CWeather::RenderRainStreaks"
+addr = 0x8afd054
+type = "int"
+
+[stack_vars.-0xac]
+offset = 0x0
+name = "v41"
+type = "float[4]"
+size = 0x10
+addr = 0x8afd054
+
+[stack_vars.-0x9c]
+offset = 0x10
+name = "v42"
+type = "char"
+size = 0x1
+addr = 0x8afd054
+
+[stack_vars.-0x8c]
+offset = 0x20
+name = "v43"
+type = "float[4]"
+size = 0x10
+addr = 0x8afd054
+
+[stack_vars.-0x7c]
+offset = 0x30
+name = "v44"
+type = "char[16]"
+size = 0x10
+addr = 0x8afd054
+
+[stack_vars.-0x6c]
+offset = 0x40
+name = "v45"
+type = "float"
+size = 0x4
+addr = 0x8afd054
+
+[stack_vars.-0x68]
+offset = 0x44
+name = "v46"
+type = "float"
+size = 0x4
+addr = 0x8afd054
+
+[stack_vars.-0x64]
+offset = 0x48
+name = "v47"
+type = "float"
+size = 0x4
+addr = 0x8afd054
+
+[stack_vars.-0x4c]
+offset = 0x60
+name = "v48"
+type = "int"
+size = 0x4
+addr = 0x8afd054
+
+[stack_vars.-0x48]
+offset = 0x64
+name = "v49"
+type = "float"
+size = 0x4
+addr = 0x8afd054
+
+[stack_vars.-0x44]
+offset = 0x68
+name = "v50"
+type = "float"
+size = 0x4
+addr = 0x8afd054
+
+[stack_vars.-0x40]
+offset = 0x6c
+name = "v51"
+type = "float"
+size = 0x4
+addr = 0x8afd054
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "int"
+size = 0x4
