@@ -1,0 +1,52 @@
+[metadata]
+name = "CPad"
+size = 0x9c
+last_change = 2023-11-15T18:03:54.927441Z
+
+[members.0x0]
+name = "unk"
+offset = 0x0
+type = "char[2]"
+size = 0x2
+
+[members.0x2]
+name = "NewState"
+offset = 0x2
+type = "struct CControllerState"
+size = 0x30
+
+[members.0x32]
+name = "unk2"
+offset = 0x32
+type = "char[2]"
+size = 0x2
+
+[members.0x34]
+name = "OldState"
+offset = 0x34
+type = "struct CControllerState"
+size = 0x30
+
+[members.0x64]
+name = "pad"
+offset = 0x64
+type = "char[50]"
+size = 0x32
+
+[members.0x96]
+name = "Mode"
+offset = 0x96
+type = "short"
+size = 0x2
+
+[members.0x98]
+name = "ShakeDur"
+offset = 0x98
+type = "short"
+size = 0x2
+
+[members.0x9a]
+name = "DisablePlayerControls"
+offset = 0x9a
+type = "short"
+size = 0x2
