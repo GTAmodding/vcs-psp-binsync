@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x8aa2ed4
+size = 0x8c
+last_change = 2023-11-15T18:14:28.289890Z
+
+[header]
+last_change = 2023-11-15T18:13:58.610921Z
+name = "CVehicleModelInfo::HideDamagedElementCB"
+addr = 0x8aa2ed4
+type = "int"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
