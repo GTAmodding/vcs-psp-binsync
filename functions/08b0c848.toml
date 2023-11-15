@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x8b0c848
+size = 0x34
+last_change = 2023-11-15T18:08:49.196163Z
+
+[header]
+last_change = 2023-11-15T18:08:28.776722Z
+name = "CFont::SetFontStyle"
+addr = 0x8b0c848
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
