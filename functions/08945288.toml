@@ -1,10 +1,10 @@
 [metadata]
 addr = 0x8945288
 size = 0x48
-last_change = 2023-11-15T18:13:25.424230Z
+last_change = 2023-11-15T18:15:03.249475Z
 
 [header]
-last_change = 2023-11-15T18:09:20.690901Z
+last_change = 2023-11-15T18:09:47.384693Z
 name = "CVisibilityComponents::GetElementModelInfo"
 addr = 0x8945288
 type = "int"
