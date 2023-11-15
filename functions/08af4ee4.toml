@@ -69,25 +69,25 @@ name = "a10"
 type = "float"
 size = 0x4
 
-[header.args.16]
+[header.args.10]
 offset = 0xa
 name = "a11"
 type = "float"
 size = 0x4
 
-[header.args.17]
+[header.args.11]
 offset = 0xb
 name = "a12"
 type = "float"
 size = 0x4
 
-[header.args.18]
+[header.args.12]
 offset = 0xc
 name = "a13"
 type = "float"
 size = 0x4
 
-[header.args.19]
+[header.args.13]
 offset = 0xd
 name = "a14"
 type = "float"
