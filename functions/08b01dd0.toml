@@ -1,0 +1,28 @@
+[metadata]
+addr = 0x8b01dd0
+size = 0x30
+last_change = 2023-11-15T18:08:41.541989Z
+
+[header]
+last_change = 2023-11-15T18:08:28.457735Z
+name = "CVehicle::SetComponentElementAlpha"
+addr = 0x8b01dd0
+type = "int"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "int"
+size = 0x4
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "int"
+size = 0x4
