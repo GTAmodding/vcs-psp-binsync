@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x89452d0
+size = 0x10
+last_change = 2023-11-15T18:11:13.853842Z
+
+[header]
+last_change = 2023-11-15T18:09:47.496168Z
+name = "CVisibilityComponents::SetElementFlag"
+addr = 0x89452d0
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "short"
+size = 0x2
