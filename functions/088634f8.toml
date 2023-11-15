@@ -1,10 +1,10 @@
 [metadata]
 addr = 0x88634f8
 size = 0x38
-last_change = 2023-11-15T18:12:06.328612Z
+last_change = 2023-11-15T18:15:20.969155Z
 
 [header]
-last_change = 2023-11-15T18:08:54.570601Z
+last_change = 2023-11-15T18:11:45.622393Z
 name = "CTheScripts::IsPlayerOnAMission"
 addr = 0x88634f8
 type = "BOOL"
