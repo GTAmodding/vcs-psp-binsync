@@ -1,7 +1,7 @@
 [metadata]
 name = "CControllerState"
 size = 0x30
-last_change = 2023-11-15T18:03:55.607484Z
+last_change = 2023-11-15T18:03:56.178411Z
 
 [members.0x0]
 name = "LEFTSTICKX"
