@@ -1,0 +1,10 @@
+[metadata]
+addr = 0x8afc100
+size = 0x24
+last_change = 2023-11-15T18:08:49.403867Z
+
+[header]
+last_change = 2023-11-15T18:08:28.168725Z
+name = "CWeather::RestoreWeatherState"
+addr = 0x8afc100
+type = "void"
