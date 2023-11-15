@@ -1,10 +1,10 @@
 [metadata]
 addr = 0x8b0d88c
 size = 0x18
-last_change = 2023-11-15T18:08:59.785256Z
+last_change = 2023-11-15T18:09:54.317103Z
 
 [header]
-last_change = 2023-11-15T18:08:57.556876Z
+last_change = 2023-11-15T18:08:28.965913Z
 name = "CDamageManager::GetLightStatus"
 addr = 0x8b0d88c
 type = "int"
