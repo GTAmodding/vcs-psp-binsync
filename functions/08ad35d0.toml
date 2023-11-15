@@ -1,0 +1,10 @@
+[metadata]
+addr = 0x8ad35d0
+size = 0x1c
+last_change = 2023-11-15T18:15:03.709379Z
+
+[header]
+last_change = 2023-11-15T18:13:30.354104Z
+name = "CStreaming::Update"
+addr = 0x8ad35d0
+type = "int"

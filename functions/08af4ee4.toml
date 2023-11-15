@@ -1,10 +1,10 @@
 [metadata]
 addr = 0x8af4ee4
 size = 0x20c
-last_change = 2023-11-15T18:08:41.193061Z
+last_change = 2023-11-15T18:14:46.152882Z
 
 [header]
-last_change = 2023-11-15T18:08:27.986469Z
+last_change = 2023-11-15T18:13:32.762034Z
 name = "CSprite2d::SetVertices"
 addr = 0x8af4ee4
 type = "int"
@@ -69,25 +69,25 @@ name = "a10"
 type = "float"
 size = 0x4
 
-[header.args.22]
+[header.args.10]
 offset = 0xa
 name = "a11"
 type = "float"
 size = 0x4
 
-[header.args.23]
+[header.args.11]
 offset = 0xb
 name = "a12"
 type = "float"
 size = 0x4
 
-[header.args.24]
+[header.args.12]
 offset = 0xc
 name = "a13"
 type = "float"
 size = 0x4
 
-[header.args.25]
+[header.args.13]
 offset = 0xd
 name = "a14"
 type = "float"
