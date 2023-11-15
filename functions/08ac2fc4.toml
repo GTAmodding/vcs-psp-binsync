@@ -1,0 +1,10 @@
+[metadata]
+addr = 0x8ac2fc4
+size = 0xf4
+last_change = 2023-11-15T18:15:29.026196Z
+
+[header]
+last_change = 2023-11-15T18:13:28.098034Z
+name = "CGame::InitialiseRsl3DEngine"
+addr = 0x8ac2fc4
+type = "int"
