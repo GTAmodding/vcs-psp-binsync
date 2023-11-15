@@ -1,0 +1,29 @@
+[metadata]
+addr = 0x8aa2860
+size = 0x204
+last_change = 2023-11-15T18:14:28.876454Z
+
+[header]
+last_change = 2023-11-15T18:13:58.388506Z
+name = "CVehicleModelInfo::SetElementRendererCB_BigVehicle"
+addr = 0x8aa2860
+type = "_DWORD *"
+
+[stack_vars.-0x10]
+offset = 0x0
+name = "v12"
+type = "char[4]"
+size = 0x4
+addr = 0x8aa2860
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "_DWORD *"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "int"
+size = 0x4
