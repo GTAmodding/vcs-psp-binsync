@@ -1,10 +1,10 @@
 [metadata]
 addr = 0x888876c
 size = 0x12c
-last_change = 2023-11-15T18:11:28.510774Z
+last_change = 2023-11-15T18:10:57.544843Z
 
 [header]
-last_change = 2023-11-15T18:09:45.705119Z
+last_change = 2023-11-15T18:09:19.200441Z
 name = "cMusicManager::PlayerInCar"
 addr = 0x888876c
 type = "BOOL"
