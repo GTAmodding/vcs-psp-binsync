@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x8944d14
+size = 0x3c
+last_change = 2023-11-15T18:10:57.873395Z
+
+[header]
+last_change = 2023-11-15T18:09:47.037720Z
+name = "RslLight::RslLight"
+addr = 0x8944d14
+type = "int"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
