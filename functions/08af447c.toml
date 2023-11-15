@@ -1,0 +1,10 @@
+[metadata]
+addr = 0x8af447c
+size = 0x54
+last_change = 2023-11-15T18:15:20.333693Z
+
+[header]
+last_change = 2023-11-15T18:10:23.435045Z
+name = "CSprite2d::RenderVertexBuffer"
+addr = 0x8af447c
+type = "int"
