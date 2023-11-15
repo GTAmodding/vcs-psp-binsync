@@ -1,0 +1,148 @@
+[metadata]
+name = "CControllerState"
+size = 0x30
+last_change = 2023-11-15T18:03:55.607484Z
+
+[members.0x0]
+name = "LEFTSTICKX"
+offset = 0x0
+type = "short"
+size = 0x2
+
+[members.0x2]
+name = "LEFTSTICKY"
+offset = 0x2
+type = "short"
+size = 0x2
+
+[members.0x4]
+name = "RIGHTSTICKX"
+offset = 0x4
+type = "short"
+size = 0x2
+
+[members.0x6]
+name = "RIGHTSTICKY"
+offset = 0x6
+type = "short"
+size = 0x2
+
+[members.0x8]
+name = "LEFTSHOULDER1"
+offset = 0x8
+type = "short"
+size = 0x2
+
+[members.0xa]
+name = "LEFTSHOULDER2"
+offset = 0xa
+type = "short"
+size = 0x2
+
+[members.0xc]
+name = "RIGHTSHOULDER1"
+offset = 0xc
+type = "short"
+size = 0x2
+
+[members.0xe]
+name = "RIGHTSHOULDER2"
+offset = 0xe
+type = "short"
+size = 0x2
+
+[members.0x10]
+name = "DPADUP"
+offset = 0x10
+type = "short"
+size = 0x2
+
+[members.0x12]
+name = "DPADDOWN"
+offset = 0x12
+type = "short"
+size = 0x2
+
+[members.0x14]
+name = "DPADLEFT"
+offset = 0x14
+type = "short"
+size = 0x2
+
+[members.0x16]
+name = "DPADRIGHT"
+offset = 0x16
+type = "short"
+size = 0x2
+
+[members.0x18]
+name = "unk1"
+offset = 0x18
+type = "short"
+size = 0x2
+
+[members.0x1a]
+name = "unk2"
+offset = 0x1a
+type = "short"
+size = 0x2
+
+[members.0x1c]
+name = "unk3"
+offset = 0x1c
+type = "short"
+size = 0x2
+
+[members.0x1e]
+name = "unk4"
+offset = 0x1e
+type = "short"
+size = 0x2
+
+[members.0x20]
+name = "START"
+offset = 0x20
+type = "short"
+size = 0x2
+
+[members.0x22]
+name = "SELECT"
+offset = 0x22
+type = "short"
+size = 0x2
+
+[members.0x24]
+name = "SQUARE"
+offset = 0x24
+type = "short"
+size = 0x2
+
+[members.0x26]
+name = "TRIANGLE"
+offset = 0x26
+type = "short"
+size = 0x2
+
+[members.0x28]
+name = "CROSS"
+offset = 0x28
+type = "short"
+size = 0x2
+
+[members.0x2a]
+name = "CIRCLE"
+offset = 0x2a
+type = "short"
+size = 0x2
+
+[members.0x2c]
+name = "LEFTSHOCK"
+offset = 0x2c
+type = "short"
+size = 0x2
+
+[members.0x2e]
+name = "RIGHTSHOCK"
+offset = 0x2e
+type = "short"
+size = 0x2
