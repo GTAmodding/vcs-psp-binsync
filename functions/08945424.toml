@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x8945424
+size = 0x118
+last_change = 2023-11-15T18:13:39.116477Z
+
+[header]
+last_change = 2023-11-15T18:09:47.856211Z
+name = "CVisibilityComponents::RenderVehicleHiDetailCB"
+addr = 0x8945424
+type = "int"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
