@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x8afb4e8
+size = 0x10
+last_change = 2023-11-15T18:08:41.931409Z
+
+[header]
+last_change = 2023-11-15T18:08:28.074022Z
+name = "CWeather::ForceWeatherNow"
+addr = 0x8afb4e8
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "short"
+size = 0x2
