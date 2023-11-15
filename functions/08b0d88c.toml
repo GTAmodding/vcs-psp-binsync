@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x8b0d88c
+size = 0x18
+last_change = 2023-11-15T18:08:59.785256Z
+
+[header]
+last_change = 2023-11-15T18:08:57.556876Z
+name = "CDamageManager::GetLightStatus"
+addr = 0x8b0d88c
+type = "int"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "char"
+size = 0x1
