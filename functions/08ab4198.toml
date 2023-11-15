@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x8ab4198
+size = 0x20
+last_change = 2023-11-15T18:14:20.717817Z
+
+[header]
+last_change = 2023-11-15T18:14:20.025712Z
+name = "CWanted::ClearQdCrimes"
+addr = 0x8ab4198
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
