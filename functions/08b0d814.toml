@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x8b0d814
+size = 0x48
+last_change = 2023-11-15T18:09:07.228344Z
+
+[header]
+last_change = 2023-11-15T18:08:28.872098Z
+name = "CDamageManager::ResetDamageStatus"
+addr = 0x8b0d814
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
