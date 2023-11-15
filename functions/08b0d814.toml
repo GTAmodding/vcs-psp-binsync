@@ -1,10 +1,10 @@
 [metadata]
 addr = 0x8b0d814
 size = 0x48
-last_change = 2023-11-15T18:09:07.228344Z
+last_change = 2023-11-15T18:10:10.124657Z
 
 [header]
-last_change = 2023-11-15T18:08:28.872098Z
+last_change = 2023-11-15T18:08:57.449947Z
 name = "CDamageManager::ResetDamageStatus"
 addr = 0x8b0d814
 type = "void"
