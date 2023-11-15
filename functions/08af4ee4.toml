@@ -1,0 +1,94 @@
+[metadata]
+addr = 0x8af4ee4
+size = 0x20c
+last_change = 2023-11-15T18:08:41.193061Z
+
+[header]
+last_change = 2023-11-15T18:08:27.986469Z
+name = "CSprite2d::SetVertices"
+addr = 0x8af4ee4
+type = "int"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "float *"
+size = 0x4
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "char *"
+size = 0x4
+
+[header.args.3]
+offset = 0x3
+name = "a4"
+type = "char *"
+size = 0x4
+
+[header.args.4]
+offset = 0x4
+name = "a5"
+type = "char *"
+size = 0x4
+
+[header.args.5]
+offset = 0x5
+name = "a6"
+type = "char *"
+size = 0x4
+
+[header.args.6]
+offset = 0x6
+name = "a7"
+type = "float"
+size = 0x4
+
+[header.args.7]
+offset = 0x7
+name = "a8"
+type = "float"
+size = 0x4
+
+[header.args.8]
+offset = 0x8
+name = "a9"
+type = "float"
+size = 0x4
+
+[header.args.9]
+offset = 0x9
+name = "a10"
+type = "float"
+size = 0x4
+
+[header.args.10]
+offset = 0xa
+name = "a11"
+type = "float"
+size = 0x4
+
+[header.args.11]
+offset = 0xb
+name = "a12"
+type = "float"
+size = 0x4
+
+[header.args.12]
+offset = 0xc
+name = "a13"
+type = "float"
+size = 0x4
+
+[header.args.13]
+offset = 0xd
+name = "a14"
+type = "float"
+size = 0x4
