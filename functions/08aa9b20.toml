@@ -1,0 +1,210 @@
+[metadata]
+addr = 0x8aa9b20
+size = 0x43c
+last_change = 2023-11-15T18:14:11.533971Z
+
+[header]
+last_change = 2023-11-15T18:14:10.474558Z
+name = "CSprite::RenderBufferedOneXLUSprite"
+addr = 0x8aa9b20
+type = "void"
+
+[stack_vars.-0x60]
+offset = 0x0
+name = "v31"
+type = "float"
+size = 0x4
+addr = 0x8aa9b20
+
+[stack_vars.-0x5c]
+offset = 0x4
+name = "v32"
+type = "float"
+size = 0x4
+addr = 0x8aa9b20
+
+[stack_vars.-0x58]
+offset = 0x8
+name = "v33"
+type = "float"
+size = 0x4
+addr = 0x8aa9b20
+
+[stack_vars.-0x54]
+offset = 0xc
+name = "v34"
+type = "float"
+size = 0x4
+addr = 0x8aa9b20
+
+[stack_vars.-0x50]
+offset = 0x10
+name = "v35"
+type = "float"
+size = 0x4
+addr = 0x8aa9b20
+
+[stack_vars.-0x4c]
+offset = 0x14
+name = "v36"
+type = "float"
+size = 0x4
+addr = 0x8aa9b20
+
+[stack_vars.-0x48]
+offset = 0x18
+name = "v37"
+type = "float"
+size = 0x4
+addr = 0x8aa9b20
+
+[stack_vars.-0x44]
+offset = 0x1c
+name = "v38"
+type = "float"
+size = 0x4
+addr = 0x8aa9b20
+
+[stack_vars.-0x40]
+offset = 0x20
+name = "v39"
+type = "float"
+size = 0x4
+addr = 0x8aa9b20
+
+[stack_vars.-0x3c]
+offset = 0x24
+name = "v40"
+type = "float"
+size = 0x4
+addr = 0x8aa9b20
+
+[stack_vars.-0x38]
+offset = 0x28
+name = "v41"
+type = "float"
+size = 0x4
+addr = 0x8aa9b20
+
+[stack_vars.-0x34]
+offset = 0x2c
+name = "v42"
+type = "float"
+size = 0x4
+addr = 0x8aa9b20
+
+[stack_vars.-0x30]
+offset = 0x30
+name = "v43"
+type = "float"
+size = 0x4
+addr = 0x8aa9b20
+
+[stack_vars.-0x2c]
+offset = 0x34
+name = "v44"
+type = "float"
+size = 0x4
+addr = 0x8aa9b20
+
+[stack_vars.-0x28]
+offset = 0x38
+name = "v45"
+type = "float"
+size = 0x4
+addr = 0x8aa9b20
+
+[stack_vars.-0x24]
+offset = 0x3c
+name = "v46"
+type = "float"
+size = 0x4
+addr = 0x8aa9b20
+
+[stack_vars.-0x20]
+offset = 0x40
+name = "v47"
+type = "char"
+size = 0x1
+addr = 0x8aa9b20
+
+[stack_vars.-0x1f]
+offset = 0x41
+name = "v48"
+type = "char"
+size = 0x1
+addr = 0x8aa9b20
+
+[stack_vars.-0x1e]
+offset = 0x42
+name = "v49"
+type = "char"
+size = 0x1
+addr = 0x8aa9b20
+
+[stack_vars.-0x1d]
+offset = 0x43
+name = "v50"
+type = "char"
+size = 0x1
+addr = 0x8aa9b20
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "unsigned char"
+size = 0x1
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "unsigned char"
+size = 0x1
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "unsigned char"
+size = 0x1
+
+[header.args.3]
+offset = 0x3
+name = "a4"
+type = "short"
+size = 0x2
+
+[header.args.4]
+offset = 0x4
+name = "a5"
+type = "char"
+size = 0x1
+
+[header.args.5]
+offset = 0x5
+name = "x"
+type = "float"
+size = 0x4
+
+[header.args.6]
+offset = 0x6
+name = "y"
+type = "float"
+size = 0x4
+
+[header.args.7]
+offset = 0x7
+name = "z"
+type = "float"
+size = 0x4
+
+[header.args.8]
+offset = 0x8
+name = "w"
+type = "float"
+size = 0x4
+
+[header.args.9]
+offset = 0x9
+name = "recipz"
+type = "float"
+size = 0x4
