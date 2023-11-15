@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x8aa25e0
+size = 0xdc
+last_change = 2023-11-15T18:14:29.564169Z
+
+[header]
+last_change = 2023-11-15T18:13:58.140571Z
+name = "CVehicleModelInfo::SetElementRenderCallbacks"
+addr = 0x8aa25e0
+type = "int"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
