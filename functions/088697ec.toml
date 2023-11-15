@@ -1,0 +1,66 @@
+[metadata]
+addr = 0x88697ec
+size = 0x480
+last_change = 2023-11-15T18:11:35.806377Z
+
+[header]
+last_change = 2023-11-15T18:09:18.599873Z
+name = "CTheScripts::Process"
+addr = 0x88697ec
+type = "void"
+
+[stack_vars.-0x74]
+offset = 0x10
+name = "v24"
+type = "char[4]"
+size = 0x4
+addr = 0x88697ec
+
+[stack_vars.-0x70]
+offset = 0x14
+name = "v25"
+type = "int"
+size = 0x4
+addr = 0x88697ec
+
+[stack_vars.-0x6c]
+offset = 0x18
+name = "v26"
+type = "int *"
+size = 0x4
+addr = 0x88697ec
+
+[stack_vars.-0x64]
+offset = 0x20
+name = "v27"
+type = "float[6]"
+size = 0x18
+addr = 0x88697ec
+
+[stack_vars.-0x4c]
+offset = 0x38
+name = "v28"
+type = "int"
+size = 0x4
+addr = 0x88697ec
+
+[stack_vars.-0x44]
+offset = 0x40
+name = "v29"
+type = "int"
+size = 0x4
+addr = 0x88697ec
+
+[stack_vars.-0x40]
+offset = 0x44
+name = "v30"
+type = "short"
+size = 0x2
+addr = 0x88697ec
+
+[stack_vars.-0x3c]
+offset = 0x48
+name = "v31"
+type = "int"
+size = 0x4
+addr = 0x88697ec
