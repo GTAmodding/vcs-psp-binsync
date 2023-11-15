@@ -1,0 +1,24 @@
+[metadata]
+addr = 0x8b412d8
+size = 0x154
+last_change = 2023-11-15T18:08:01.782352Z
+
+[header]
+last_change = 2023-11-15T18:08:01.733350Z
+name = "CCarCtrl::RemoveDistantCars"
+addr = 0x8b412d8
+type = "void"
+
+[stack_vars.-0x2c]
+offset = 0x0
+name = "v8"
+type = "float"
+size = 0x4
+addr = 0x8b412d8
+
+[stack_vars.-0x28]
+offset = 0x4
+name = "v9"
+type = "float"
+size = 0x4
+addr = 0x8b412d8
