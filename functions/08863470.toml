@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x8863470
+size = 0x6c
+last_change = 2023-11-15T18:09:14.399777Z
+
+[header]
+last_change = 2023-11-15T18:08:54.384364Z
+name = "CTheScripts::StartNewScript"
+addr = 0x8863470
+type = "int"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
