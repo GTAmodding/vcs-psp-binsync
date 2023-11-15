@@ -1,0 +1,147 @@
+[metadata]
+addr = 0x890043c
+size = 0xad8
+last_change = 2023-11-15T18:11:06.013875Z
+
+[header]
+last_change = 2023-11-15T18:09:20.329875Z
+name = "CParticle::AddParticle2"
+addr = 0x890043c
+type = "int"
+
+[stack_vars.0x0]
+offset = 0x100
+name = "a10"
+type = "int"
+size = 0x4
+addr = 0x890043c
+
+[stack_vars.-0xf0]
+offset = 0x10
+name = "v54"
+type = "char"
+size = 0x1
+addr = 0x890043c
+
+[stack_vars.-0xe0]
+offset = 0x20
+name = "v55"
+type = "char"
+size = 0x1
+addr = 0x890043c
+
+[stack_vars.-0xd0]
+offset = 0x30
+name = "v56"
+type = "char[8]"
+size = 0x8
+addr = 0x890043c
+
+[stack_vars.-0xc8]
+offset = 0x38
+name = "v57"
+type = "float"
+size = 0x4
+addr = 0x890043c
+
+[stack_vars.-0xb0]
+offset = 0x50
+name = "v58"
+type = "char[16]"
+size = 0x10
+addr = 0x890043c
+
+[stack_vars.-0xa0]
+offset = 0x60
+name = "v59"
+type = "char[16]"
+size = 0x10
+addr = 0x890043c
+
+[stack_vars.-0x90]
+offset = 0x70
+name = "v60"
+type = "float[4]"
+size = 0x10
+addr = 0x890043c
+
+[stack_vars.-0x80]
+offset = 0x80
+name = "v61"
+type = "char[52]"
+size = 0x34
+addr = 0x890043c
+
+[stack_vars.-0x4c]
+offset = 0xb4
+name = "v62"
+type = "_DWORD *"
+size = 0x4
+addr = 0x890043c
+
+[stack_vars.-0x48]
+offset = 0xb8
+name = "v63"
+type = "int"
+size = 0x4
+addr = 0x890043c
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "_DWORD *"
+size = 0x4
+
+[header.args.2]
+offset = 0x2
+name = "$A2"
+type = "int"
+size = 0x4
+
+[header.args.3]
+offset = 0x3
+name = "a4"
+type = "float"
+size = 0x4
+
+[header.args.4]
+offset = 0x4
+name = "a5"
+type = "int"
+size = 0x4
+
+[header.args.5]
+offset = 0x5
+name = "a6"
+type = "int"
+size = 0x4
+
+[header.args.6]
+offset = 0x6
+name = "a7"
+type = "int"
+size = 0x4
+
+[header.args.7]
+offset = 0x7
+name = "a8"
+type = "short"
+size = 0x2
+
+[header.args.8]
+offset = 0x8
+name = "a9"
+type = "int"
+size = 0x4
+
+[header.args.9]
+offset = 0x9
+name = "a10"
+type = "int"
+size = 0x4
