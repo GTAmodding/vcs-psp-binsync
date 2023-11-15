@@ -1,0 +1,6 @@
+[0x8afd4dc]
+last_change = 2023-11-15T18:08:34.220978Z
+addr = 0x8afd4dc
+func_addr = 0x8afd054
+comment = "CCutsceneMgr::ms_running\n"
+decompiled = true
