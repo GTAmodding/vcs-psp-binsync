@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x88623ec
+size = 0xb8
+last_change = 2023-11-15T18:09:32.700518Z
+
+[header]
+last_change = 2023-11-15T18:09:17.583823Z
+name = "CRunningScript::Init"
+addr = 0x88623ec
+type = "int"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
