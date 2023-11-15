@@ -1,0 +1,102 @@
+[metadata]
+addr = 0x8b0c1b0
+size = 0x2dc
+last_change = 2023-11-15T18:08:41.727094Z
+
+[header]
+last_change = 2023-11-15T18:08:28.580796Z
+name = "CFont::PrintString"
+addr = 0x8b0c1b0
+type = "void"
+
+[stack_vars.-0x44]
+offset = 0x0
+name = "v25"
+type = "char"
+size = 0x1
+addr = 0x8b0c1b0
+
+[stack_vars.-0x43]
+offset = 0x1
+name = "v26"
+type = "char"
+size = 0x1
+addr = 0x8b0c1b0
+
+[stack_vars.-0x42]
+offset = 0x2
+name = "v27"
+type = "char"
+size = 0x1
+addr = 0x8b0c1b0
+
+[stack_vars.-0x41]
+offset = 0x3
+name = "v28"
+type = "char"
+size = 0x1
+addr = 0x8b0c1b0
+
+[stack_vars.-0x40]
+offset = 0x4
+name = "v29"
+type = "char[4]"
+size = 0x4
+addr = 0x8b0c1b0
+
+[stack_vars.-0x3c]
+offset = 0x8
+name = "v30"
+type = "float[4]"
+size = 0x10
+addr = 0x8b0c1b0
+
+[stack_vars.-0x2c]
+offset = 0x18
+name = "v31"
+type = "unsigned short *"
+size = 0x4
+addr = 0x8b0c1b0
+
+[stack_vars.-0x28]
+offset = 0x1c
+name = "v32"
+type = "float *"
+size = 0x4
+addr = 0x8b0c1b0
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "unsigned short *"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "int"
+size = 0x4
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "int"
+size = 0x4
+
+[header.args.3]
+offset = 0x3
+name = "a4"
+type = "int"
+size = 0x4
+
+[header.args.4]
+offset = 0x4
+name = "a5"
+type = "float *"
+size = 0x4
+
+[header.args.5]
+offset = 0x5
+name = "a6"
+type = "unsigned char"
+size = 0x1
