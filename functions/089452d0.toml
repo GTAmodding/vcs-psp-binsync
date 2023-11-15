@@ -1,10 +1,10 @@
 [metadata]
 addr = 0x89452d0
 size = 0x10
-last_change = 2023-11-15T18:12:38.313066Z
+last_change = 2023-11-15T18:11:13.853842Z
 
 [header]
-last_change = 2023-11-15T18:09:20.793460Z
+last_change = 2023-11-15T18:09:47.496168Z
 name = "CVisibilityComponents::SetElementFlag"
 addr = 0x89452d0
 type = "void"
