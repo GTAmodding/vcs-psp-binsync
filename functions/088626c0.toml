@@ -1,10 +1,10 @@
 [metadata]
 addr = 0x88626c0
 size = 0x38
-last_change = 2023-11-15T18:12:21.755780Z
+last_change = 2023-11-15T18:09:32.992326Z
 
 [header]
-last_change = 2023-11-15T18:09:44.279456Z
+last_change = 2023-11-15T18:09:17.682366Z
 name = "CRunningScript::RemoveScriptFromList"
 addr = 0x88626c0
 type = "void"
