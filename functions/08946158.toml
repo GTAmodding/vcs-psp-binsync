@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x8946158
+size = 0xf4
+last_change = 2023-11-15T18:12:37.484991Z
+
+[header]
+last_change = 2023-11-15T18:09:50.204970Z
+name = "CVisibilityComponents::SetRslCamera"
+addr = 0x8946158
+type = "int"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
