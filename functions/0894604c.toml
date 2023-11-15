@@ -1,0 +1,16 @@
+[metadata]
+addr = 0x894604c
+size = 0x3c
+last_change = 2023-11-15T18:12:54.133847Z
+
+[header]
+last_change = 2023-11-15T18:09:49.688571Z
+name = "CVisibilityComponents::RenderVehicleHiDetailCB_Boat_Far"
+addr = 0x894604c
+type = "int"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
