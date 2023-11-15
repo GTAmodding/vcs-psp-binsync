@@ -1,0 +1,58 @@
+[metadata]
+addr = 0x888ac84
+size = 0x9f8
+last_change = 2023-11-15T18:11:14.179472Z
+
+[header]
+last_change = 2023-11-15T18:08:55.709901Z
+name = "cMusicManager::DisplayRadioStationName"
+addr = 0x888ac84
+type = "void"
+
+[stack_vars.-0xd8]
+offset = 0x0
+name = "v24"
+type = "char[4]"
+size = 0x4
+addr = 0x888ac84
+
+[stack_vars.-0xd4]
+offset = 0x4
+name = "v25"
+type = "short[15]"
+size = 0x1e
+addr = 0x888ac84
+
+[stack_vars.-0xb6]
+offset = 0x22
+name = "v26"
+type = "short[53]"
+size = 0x6a
+addr = 0x888ac84
+
+[stack_vars.-0x4c]
+offset = 0x8c
+name = "v27"
+type = "float[4]"
+size = 0x10
+addr = 0x888ac84
+
+[stack_vars.-0x3c]
+offset = 0x9c
+name = "v28"
+type = "short[4]"
+size = 0x8
+addr = 0x888ac84
+
+[stack_vars.-0x34]
+offset = 0xa4
+name = "v29"
+type = "char[28]"
+size = 0x1c
+addr = 0x888ac84
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
