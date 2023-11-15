@@ -1,0 +1,10 @@
+[metadata]
+addr = 0x8ad312c
+size = 0x50
+last_change = 2023-11-15T18:15:19.740925Z
+
+[header]
+last_change = 2023-11-15T18:13:29.395516Z
+name = "CStreaming::LoadInitialPeds"
+addr = 0x8ad312c
+type = "_DWORD *"
