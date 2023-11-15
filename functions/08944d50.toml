@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x8944d50
+size = 0x30
+last_change = 2023-11-15T18:10:35.533455Z
+
+[header]
+last_change = 2023-11-15T18:09:47.146251Z
+name = "RslLight::SetRadius"
+addr = 0x8944d50
+type = "int"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "float"
+size = 0x4
