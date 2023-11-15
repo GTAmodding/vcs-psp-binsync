@@ -1,0 +1,28 @@
+[metadata]
+addr = 0x89457c8
+size = 0x168
+last_change = 2023-11-15T18:09:54.589518Z
+
+[header]
+last_change = 2023-11-15T18:09:21.393162Z
+name = "CVisibilityComponents::RenderTrainHiDetailAlphaCB"
+addr = 0x89457c8
+type = "int"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "int"
+size = 0x4
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "int"
+size = 0x4
