@@ -1,0 +1,34 @@
+[metadata]
+addr = 0x886a440
+size = 0x100
+last_change = 2023-11-15T18:09:32.162317Z
+
+[header]
+last_change = 2023-11-15T18:08:55.179792Z
+name = "CDirectory::FindItem"
+addr = 0x886a440
+type = "int"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "_DWORD *"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "char *"
+size = 0x4
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "_DWORD *"
+size = 0x4
+
+[header.args.3]
+offset = 0x3
+name = "a4"
+type = "_DWORD *"
+size = 0x4
