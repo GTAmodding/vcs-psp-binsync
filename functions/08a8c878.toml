@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a8c878
+size = 0x240
+last_change = 2023-11-18T16:36:39.261488Z
+
+[header]
+name = "Command_ADD_ONE_OFF_SOUND_SOUND"
+addr = 0x8a8c878
