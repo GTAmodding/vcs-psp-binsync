@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a92240
+size = 0xd0
+last_change = 2023-11-18T16:34:28.795297Z
+
+[header]
+name = "Command_SWITCH_PED_ROADS_OFF_TO"
+addr = 0x8a92240
