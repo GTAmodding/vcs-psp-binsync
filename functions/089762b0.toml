@@ -1,0 +1,29 @@
+[metadata]
+addr = 0x89762b0
+size = 0x154
+last_change = 2023-11-18T16:42:28.491054Z
+
+[header]
+name = "Command_UNKNOWN_EMPIRE_DISPLAY_COMMAND_0471_STORE_TO"
+addr = 0x89762b0
+
+[stack_vars.-0x28]
+offset = -40
+name = "local_28"
+type = "int"
+size = 0x4
+addr = 0x89762b0
+
+[stack_vars.-0x30]
+offset = -48
+name = "auStack48"
+type = "undefined[4]"
+size = 0x4
+addr = 0x89762b0
+
+[stack_vars.-0x2c]
+offset = -44
+name = "local_2c"
+type = "undefined *"
+size = 0x4
+addr = 0x89762b0
