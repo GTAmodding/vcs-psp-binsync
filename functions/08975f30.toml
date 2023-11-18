@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8975f30
+size = 0x68
+last_change = 2023-11-18T16:39:56.493066Z
+
+[header]
+name = "Command_SET_DRAWN_DISPLAY_POSITION_ID_X_Y"
+addr = 0x8975f30
