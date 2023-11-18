@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a8cc60
+size = 0x54
+last_change = 2023-11-18T16:36:16.729713Z
+
+[header]
+name = "Command_POLICE_RADIO_MESSAGE_POINT"
+addr = 0x8a8cc60
