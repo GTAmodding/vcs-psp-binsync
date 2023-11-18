@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x88861c4
+size = 0x2c
+last_change = 2023-11-18T16:36:08.208645Z
+
+[header]
+name = "Command_SET_TOTAL_NUMBER_OF_MISSIONS"
+addr = 0x88861c4
