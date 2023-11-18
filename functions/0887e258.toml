@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x887e258
+size = 0x68
+last_change = 2023-11-18T16:42:36.018865Z
+
+[header]
+name = "Command_SET_EMPIRE_OWNERSHIP_VALUE"
+addr = 0x887e258
