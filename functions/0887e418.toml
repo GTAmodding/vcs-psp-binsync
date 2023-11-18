@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x887e418
+size = 0x90
+last_change = 2023-11-18T16:35:53.642353Z
+
+[header]
+name = "Command_SET_EMPIRE_VISUAL_DAMAGE_FLAG"
+addr = 0x887e418
