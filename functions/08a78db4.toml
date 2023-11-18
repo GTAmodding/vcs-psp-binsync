@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a78db4
+size = 0x64
+last_change = 2023-11-18T16:39:36.369913Z
+
+[header]
+name = "Command_CHANGE_BLIP_SCALE_TO"
+addr = 0x8a78db4
