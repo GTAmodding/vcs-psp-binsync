@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x89e08b4
+size = 0x84
+last_change = 2023-11-18T16:38:28.844827Z
+
+[header]
+name = "Command_TAKE_REMOTE_CONTROLLED_CAR_FROM_PLAYER"
+addr = 0x89e08b4
