@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x898f7c0
+size = 0x24
+last_change = 2023-11-18T16:35:31.999614Z
+
+[header]
+name = "Command_RESTORE_CAMERA"
+addr = 0x898f7c0
