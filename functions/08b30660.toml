@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b30660
+size = 0x74
+last_change = 2023-11-18T16:34:15.036900Z
+
+[header]
+name = "Command_UNKNOWN_CHAR_SET_COMMAND_3120_FLAG"
+addr = 0x8b30660
