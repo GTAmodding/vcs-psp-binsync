@@ -1,0 +1,106 @@
+[metadata]
+addr = 0x8a92818
+size = 0x170
+last_change = 2023-11-18T16:34:29.263672Z
+
+[header]
+name = "Command_GET_CLOSEST_STRAIGHT_ROAD_UNK_LENGTH_RADIUS_STORE_TO"
+addr = 0x8a92818
+
+[stack_vars.-0x28]
+offset = -40
+name = "local_28"
+type = "int"
+size = 0x4
+addr = 0x8a92818
+
+[stack_vars.-0x2c]
+offset = -44
+name = "local_2c"
+type = "int"
+size = 0x4
+addr = 0x8a92818
+
+[stack_vars.-0x38]
+offset = -56
+name = "iStack56"
+type = "int"
+size = 0x4
+addr = 0x8a92818
+
+[stack_vars.-0x34]
+offset = -52
+name = "uStack52"
+type = "undefined4"
+size = 0x4
+addr = 0x8a92818
+
+[stack_vars.-0x3c]
+offset = -60
+name = "iStack60"
+type = "int"
+size = 0x4
+addr = 0x8a92818
+
+[stack_vars.-0x5c]
+offset = -92
+name = "local_5c"
+type = "int"
+size = 0x4
+addr = 0x8a92818
+
+[stack_vars.-0x60]
+offset = -96
+name = "local_60"
+type = "int"
+size = 0x4
+addr = 0x8a92818
+
+[stack_vars.-0x50]
+offset = -80
+name = "local_50"
+type = "int"
+size = 0x4
+addr = 0x8a92818
+
+[stack_vars.-0x58]
+offset = -88
+name = "local_58"
+type = "int"
+size = 0x4
+addr = 0x8a92818
+
+[stack_vars.-0x48]
+offset = -72
+name = "local_48"
+type = "undefined4[2]"
+size = 0x8
+addr = 0x8a92818
+
+[stack_vars.-0x4c]
+offset = -76
+name = "local_4c"
+type = "int"
+size = 0x4
+addr = 0x8a92818
+
+[stack_vars.-0x30]
+offset = -48
+name = "local_30"
+type = "int"
+size = 0x4
+addr = 0x8a92818
+
+[stack_vars.-0x40]
+offset = -64
+name = "local_40"
+type = "int"
+size = 0x4
+addr = 0x8a92818
+
+[stack_vars.-0x24]
+offset = -36
+name = "uStack36"
+type = "undefined4"
+size = 0x4
+addr = 0x8a92818
