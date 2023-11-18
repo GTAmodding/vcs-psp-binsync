@@ -1,0 +1,36 @@
+[metadata]
+addr = 0x8b2d668
+size = 0x1ec
+last_change = 2023-11-18T16:36:09.805947Z
+
+[header]
+name = "Command_CREATE_RANDOM_CHAR_AS_PASSENGER_SEAT_STORE_TO"
+addr = 0x8b2d668
+
+[stack_vars.-0x2c]
+offset = -44
+name = "uStack44"
+type = "undefined4"
+size = 0x4
+addr = 0x8b2d668
+
+[stack_vars.-0x24]
+offset = -36
+name = "uStack36"
+type = "undefined4"
+size = 0x4
+addr = 0x8b2d668
+
+[stack_vars.-0x30]
+offset = -48
+name = "local_30"
+type = "undefined4"
+size = 0x4
+addr = 0x8b2d668
+
+[stack_vars.-0x28]
+offset = -40
+name = "uStack40"
+type = "undefined4"
+size = 0x4
+addr = 0x8b2d668
