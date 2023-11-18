@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x887e5dc
+size = 0x84
+last_change = 2023-11-18T16:36:01.478976Z
+
+[header]
+name = "Command_GET_EMPIRE_OWNERSHIP_STORE_TO"
+addr = 0x887e5dc
