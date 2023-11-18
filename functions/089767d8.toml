@@ -1,0 +1,29 @@
+[metadata]
+addr = 0x89767d8
+size = 0x128
+last_change = 2023-11-18T16:37:29.201016Z
+
+[header]
+name = "Command_DRAW_EMPIRE_BOX_WITH_TEXT"
+addr = 0x89767d8
+
+[stack_vars.-0x2c]
+offset = -44
+name = "local_2c"
+type = "undefined *"
+size = 0x4
+addr = 0x89767d8
+
+[stack_vars.-0x28]
+offset = -40
+name = "local_28"
+type = "int"
+size = 0x4
+addr = 0x89767d8
+
+[stack_vars.-0x30]
+offset = -48
+name = "auStack48"
+type = "undefined[4]"
+size = 0x4
+addr = 0x89767d8
