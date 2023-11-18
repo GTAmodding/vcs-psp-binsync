@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x898f6b8
+size = 0x84
+last_change = 2023-11-18T16:35:52.762637Z
+
+[header]
+name = "Command_POINT_CAMERA_AT_CAR_MODE_SWITCHSTYLE"
+addr = 0x898f6b8
