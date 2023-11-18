@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x887e3b0
+size = 0x68
+last_change = 2023-11-18T16:38:57.795892Z
+
+[header]
+name = "Command_SET_EMPIRE_CONDITION_CONDITION"
+addr = 0x887e3b0
