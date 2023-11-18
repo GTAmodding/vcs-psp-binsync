@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8885e0c
+size = 0x50
+last_change = 2023-11-18T16:39:54.010993Z
+
+[header]
+name = "Command_SAVE_JUMP_DISTANCE"
+addr = 0x8885e0c
