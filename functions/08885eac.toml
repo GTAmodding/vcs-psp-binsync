@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8885eac
+size = 0x54
+last_change = 2023-11-18T16:42:05.849388Z
+
+[header]
+name = "Command_SAVE_JUMP_FLIPS"
+addr = 0x8885eac
