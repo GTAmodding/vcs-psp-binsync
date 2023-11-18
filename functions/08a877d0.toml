@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a877d0
+size = 0x3c
+last_change = 2023-11-18T16:37:44.552696Z
+
+[header]
+name = "Command_GET_TIME_OF_DAY"
+addr = 0x8a877d0
