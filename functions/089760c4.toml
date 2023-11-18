@@ -1,0 +1,64 @@
+[metadata]
+addr = 0x89760c4
+size = 0xc4
+last_change = 2023-11-18T16:39:57.726623Z
+
+[header]
+name = "Command_DRAW_OUTLINE_AROUND_DRAWN_DISPLAY_ID_RGB_RED_RGB_GREEN_RGB_BLUE_THICKNESS"
+addr = 0x89760c4
+
+[stack_vars.-0x20]
+offset = -32
+name = "local_20"
+type = "undefined"
+size = 0x1
+addr = 0x89760c4
+
+[stack_vars.-0x1f]
+offset = -31
+name = "local_1f"
+type = "undefined"
+size = 0x1
+addr = 0x89760c4
+
+[stack_vars.-0x1e]
+offset = -30
+name = "local_1e"
+type = "undefined"
+size = 0x1
+addr = 0x89760c4
+
+[stack_vars.-0x1d]
+offset = -29
+name = "local_1d"
+type = "undefined"
+size = 0x1
+addr = 0x89760c4
+
+[stack_vars.-0x1c]
+offset = -28
+name = "local_1c"
+type = "undefined"
+size = 0x1
+addr = 0x89760c4
+
+[stack_vars.-0x1b]
+offset = -27
+name = "local_1b"
+type = "undefined"
+size = 0x1
+addr = 0x89760c4
+
+[stack_vars.-0x1a]
+offset = -26
+name = "local_1a"
+type = "undefined"
+size = 0x1
+addr = 0x89760c4
+
+[stack_vars.-0x19]
+offset = -25
+name = "local_19"
+type = "undefined"
+size = 0x1
+addr = 0x89760c4
