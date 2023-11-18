@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a87a38
+size = 0x4c
+last_change = 2023-11-18T16:33:41.162947Z
+
+[header]
+name = "Command_FREEZE_TIME"
+addr = 0x8a87a38
