@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x89337e0
+size = 0x40
+last_change = 2023-11-18T16:41:15.384869Z
+
+[header]
+name = "Command_UNKNOWN_GENERATE_CARS_SET_COMMAND_7421"
+addr = 0x89337e0
