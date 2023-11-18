@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a57b54
+size = 0x70
+last_change = 2023-11-18T16:41:37.218673Z
+
+[header]
+name = "Command_GET_DEBUG_CAMERA_POINT_AT"
+addr = 0x8a57b54
