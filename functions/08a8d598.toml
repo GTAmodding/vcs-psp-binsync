@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a8d598
+size = 0x44
+last_change = 2023-11-18T16:34:55.745414Z
+
+[header]
+name = "Command_UNKNOWN_AUDIO_GET_COMMAND_7219"
+addr = 0x8a8d598
