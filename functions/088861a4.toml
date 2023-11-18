@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x88861a4
+size = 0x20
+last_change = 2023-11-18T16:35:25.447610Z
+
+[header]
+name = "Command_REGISTER_FIRE_EXTINGUISHED"
+addr = 0x88861a4
