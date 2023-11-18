@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x898fbc0
+size = 0x24
+last_change = 2023-11-18T16:34:14.837737Z
+
+[header]
+name = "Command_SET_CAMERA_IN_FRONT_OF_PLAYER"
+addr = 0x898fbc0
