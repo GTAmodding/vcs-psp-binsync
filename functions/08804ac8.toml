@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8804ac8
+size = 0x124
+last_change = 2023-11-18T16:38:20.990804Z
+
+[header]
+name = "Command_IS_BITWISE_AND_NOT_EQUAL_TO_ZERO_AND"
+addr = 0x8804ac8
