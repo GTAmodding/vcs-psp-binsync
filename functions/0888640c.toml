@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x888640c
+size = 0x34
+last_change = 2023-11-18T16:38:39.092214Z
+
+[header]
+name = "Command_REGISTER_ODDJOB_MISSION_PASSED"
+addr = 0x888640c
