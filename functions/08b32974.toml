@@ -1,0 +1,106 @@
+[metadata]
+addr = 0x8b32974
+size = 0x3c8
+last_change = 2023-11-18T16:33:42.720076Z
+
+[header]
+name = "Command_CREATE_RANDOM_CHAR_STORE_TO"
+addr = 0x8b32974
+
+[stack_vars.-0xc0]
+offset = -192
+name = "local_c0"
+type = "/CEntity\npack(disabled)\nStructure CEntity {\n   0   CPlaceable   80   __parent   \"\"\n   80   pointer   4   m_rslObject   \"\"\n   84   ushort   2   m_scanCode   \"\"\n   86   eModelIndices   2   m_modelIndex   \"\"\n   88   word   2   null   \"\"\n   90   word:3(0)   1   m_level   \"\"\n   90   word:5(3)   1   m_area   \"\"\n   91   sbyte   1   m_lastWeaponDamage   \"\"\n   92   CEntity_vtable *   4   vmft   \"\"\n}\nSize = 96   Actual Alignment = 1\n"
+size = 0x60
+addr = 0x8b32974
+
+[stack_vars.-0xd0]
+offset = -208
+name = "local_d0"
+type = "float"
+size = 0x4
+addr = 0x8b32974
+
+[stack_vars.-0x60]
+offset = -96
+name = "local_60"
+type = "/CVector\npack(disabled)\nStructure CVector {\n   0   float   4   x   \"\"\n   4   float   4   y   \"\"\n   8   float   4   z   \"\"\n   12   float   4   w   \"\"\n}\nSize = 16   Actual Alignment = 1\n"
+size = 0x10
+addr = 0x8b32974
+
+[stack_vars.-0x4c]
+offset = -76
+name = "local_4c"
+type = "int"
+size = 0x4
+addr = 0x8b32974
+
+[stack_vars.-0x50]
+offset = -80
+name = "local_50"
+type = "int"
+size = 0x4
+addr = 0x8b32974
+
+[stack_vars.-0x40]
+offset = -64
+name = "local_40"
+type = "float"
+size = 0x4
+addr = 0x8b32974
+
+[stack_vars.-0x48]
+offset = -72
+name = "local_48"
+type = "float"
+size = 0x4
+addr = 0x8b32974
+
+[stack_vars.-0x38]
+offset = -56
+name = "local_38"
+type = "undefined4"
+size = 0x4
+addr = 0x8b32974
+
+[stack_vars.-0x3c]
+offset = -60
+name = "local_3c"
+type = "undefined4"
+size = 0x4
+addr = 0x8b32974
+
+[stack_vars.-0x34]
+offset = -52
+name = "uStack52"
+type = "undefined4"
+size = 0x4
+addr = 0x8b32974
+
+[stack_vars.-0x44]
+offset = -68
+name = "fStack68"
+type = "float"
+size = 0x4
+addr = 0x8b32974
+
+[stack_vars.-0xc8]
+offset = -200
+name = "fStack200"
+type = "float"
+size = 0x4
+addr = 0x8b32974
+
+[stack_vars.-0xcc]
+offset = -204
+name = "fStack204"
+type = "float"
+size = 0x4
+addr = 0x8b32974
+
+[stack_vars.-0xc4]
+offset = -196
+name = "fStack196"
+type = "float"
+size = 0x4
+addr = 0x8b32974
