@@ -1,0 +1,92 @@
+[metadata]
+addr = 0x8883c6c
+size = 0xc4
+last_change = 2023-11-18T16:39:08.570199Z
+
+[header]
+name = "Command_ADD_SET_PIECE_WHEN_WANTED_IN_2D_AREA_SPAWN_AT_TARGET_AND_AT_TARGET"
+addr = 0x8883c6c
+
+[stack_vars.-0x40]
+offset = -64
+name = "local_40"
+type = "int"
+size = 0x4
+addr = 0x8883c6c
+
+[stack_vars.-0x3c]
+offset = -60
+name = "local_3c"
+type = "int"
+size = 0x4
+addr = 0x8883c6c
+
+[stack_vars.-0x38]
+offset = -56
+name = "local_38"
+type = "int"
+size = 0x4
+addr = 0x8883c6c
+
+[stack_vars.-0x34]
+offset = -52
+name = "local_34"
+type = "int"
+size = 0x4
+addr = 0x8883c6c
+
+[stack_vars.-0x30]
+offset = -48
+name = "local_30"
+type = "int"
+size = 0x4
+addr = 0x8883c6c
+
+[stack_vars.-0x2c]
+offset = -44
+name = "local_2c"
+type = "int"
+size = 0x4
+addr = 0x8883c6c
+
+[stack_vars.-0x28]
+offset = -40
+name = "local_28"
+type = "int"
+size = 0x4
+addr = 0x8883c6c
+
+[stack_vars.-0x24]
+offset = -36
+name = "local_24"
+type = "int"
+size = 0x4
+addr = 0x8883c6c
+
+[stack_vars.-0x20]
+offset = -32
+name = "local_20"
+type = "int"
+size = 0x4
+addr = 0x8883c6c
+
+[stack_vars.-0x1c]
+offset = -28
+name = "local_1c"
+type = "int"
+size = 0x4
+addr = 0x8883c6c
+
+[stack_vars.-0x18]
+offset = -24
+name = "local_18"
+type = "int"
+size = 0x4
+addr = 0x8883c6c
+
+[stack_vars.-0x14]
+offset = -20
+name = "local_14"
+type = "int"
+size = 0x4
+addr = 0x8883c6c
