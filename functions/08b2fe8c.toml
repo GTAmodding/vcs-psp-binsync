@@ -1,0 +1,155 @@
+[metadata]
+addr = 0x8b2fe8c
+size = 0x204
+last_change = 2023-11-18T16:34:36.131803Z
+
+[header]
+name = "Command_UNKNOWN_CHAR_GET_COMMAND_7389_STORE_VALUES_TO"
+addr = 0x8b2fe8c
+
+[stack_vars.-0x44]
+offset = -68
+name = "uStack68"
+type = "undefined4"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x64]
+offset = -100
+name = "uStack100"
+type = "undefined4"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x6c]
+offset = -108
+name = "local_6c"
+type = "undefined4"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x70]
+offset = -112
+name = "local_70"
+type = "float"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x60]
+offset = -96
+name = "local_60"
+type = "float"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x68]
+offset = -104
+name = "local_68"
+type = "float"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x58]
+offset = -88
+name = "local_58"
+type = "float"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x5c]
+offset = -92
+name = "local_5c"
+type = "undefined4"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x50]
+offset = -80
+name = "local_50"
+type = "float"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x54]
+offset = -84
+name = "local_54"
+type = "undefined4"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x48]
+offset = -72
+name = "local_48"
+type = "float"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x4c]
+offset = -76
+name = "local_4c"
+type = "undefined4"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x3c]
+offset = -60
+name = "local_3c"
+type = "undefined4"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x40]
+offset = -64
+name = "local_40"
+type = "float"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x34]
+offset = -52
+name = "local_34"
+type = "undefined4"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x38]
+offset = -56
+name = "local_38"
+type = "float"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x20]
+offset = -32
+name = "auStack32"
+type = "undefined[4]"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x2c]
+offset = -44
+name = "local_2c"
+type = "int"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x30]
+offset = -48
+name = "local_30"
+type = "int"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x24]
+offset = -36
+name = "local_24"
+type = "int"
+size = 0x4
+addr = 0x8b2fe8c
+
+[stack_vars.-0x28]
+offset = -40
+name = "local_28"
+type = "int"
+size = 0x4
+addr = 0x8b2fe8c
