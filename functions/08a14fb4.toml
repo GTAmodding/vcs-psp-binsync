@@ -1,0 +1,316 @@
+[metadata]
+addr = 0x8a14fb4
+size = 0x68c
+last_change = 2023-11-18T16:41:56.667148Z
+
+[header]
+name = "Command_SLIDE_OBJECT_TO_SPEED_COLLISION_CHECK"
+addr = 0x8a14fb4
+
+[stack_vars.-0x124]
+offset = -292
+name = "uStack292"
+type = "undefined4"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x128]
+offset = -296
+name = "fStack296"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x104]
+offset = -260
+name = "uStack260"
+type = "undefined4"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x108]
+offset = -264
+name = "fStack264"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x114]
+offset = -276
+name = "uStack276"
+type = "undefined4"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x118]
+offset = -280
+name = "fStack280"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x64]
+offset = -100
+name = "uStack100"
+type = "undefined4"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x74]
+offset = -116
+name = "uStack116"
+type = "undefined4"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x4c]
+offset = -76
+name = "fStack76"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x44]
+offset = -68
+name = "uStack68"
+type = "undefined4"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x48]
+offset = -72
+name = "fStack72"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0xe4]
+offset = -228
+name = "fStack228"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x140]
+offset = -320
+name = "local_140"
+type = "short[8]"
+size = 0x10
+addr = 0x8a14fb4
+
+[stack_vars.-0xf4]
+offset = -244
+name = "uStack244"
+type = "undefined4"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0xf8]
+offset = -248
+name = "fStack248"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x130]
+offset = -304
+name = "local_130"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x12c]
+offset = -300
+name = "local_12c"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x120]
+offset = -288
+name = "local_120"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x11c]
+offset = -284
+name = "local_11c"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x110]
+offset = -272
+name = "local_110"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x10c]
+offset = -268
+name = "local_10c"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x100]
+offset = -256
+name = "local_100"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0xd4]
+offset = -212
+name = "fStack212"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0xfc]
+offset = -252
+name = "local_fc"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0xf0]
+offset = -240
+name = "local_f0"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0xec]
+offset = -236
+name = "local_ec"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0xd0]
+offset = -208
+name = "auStack208"
+type = "undefined[48]"
+size = 0x30
+addr = 0x8a14fb4
+
+[stack_vars.-0xe8]
+offset = -232
+name = "local_e8"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0xe0]
+offset = -224
+name = "local_e0"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0xdc]
+offset = -220
+name = "local_dc"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0xd8]
+offset = -216
+name = "local_d8"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0xa0]
+offset = -160
+name = "local_a0"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x9c]
+offset = -156
+name = "local_9c"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x98]
+offset = -152
+name = "local_98"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x90]
+offset = -144
+name = "local_90"
+type = "int"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x88]
+offset = -136
+name = "local_88"
+type = "uint"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x80]
+offset = -128
+name = "local_80"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x7c]
+offset = -124
+name = "local_7c"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x78]
+offset = -120
+name = "local_78"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x70]
+offset = -112
+name = "local_70"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x6c]
+offset = -108
+name = "local_6c"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x68]
+offset = -104
+name = "local_68"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x50]
+offset = -80
+name = "local_50"
+type = "float"
+size = 0x4
+addr = 0x8a14fb4
+
+[stack_vars.-0x40]
+offset = -64
+name = "local_40"
+type = "char"
+size = 0x1
+addr = 0x8a14fb4
