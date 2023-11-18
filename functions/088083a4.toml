@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x88083a4
+size = 0x5c
+last_change = 2023-11-18T16:40:53.596084Z
+
+[header]
+name = "Command_SET_CHAR_OBJ_WAIT_IN_CAR"
+addr = 0x88083a4
