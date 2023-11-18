@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b2dd20
+size = 0x15c
+last_change = 2023-11-18T16:35:54.135154Z
+
+[header]
+name = "Command_STOP_CHAR"
+addr = 0x8b2dd20
