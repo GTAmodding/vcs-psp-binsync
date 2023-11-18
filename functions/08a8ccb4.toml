@@ -1,0 +1,15 @@
+[metadata]
+addr = 0x8a8ccb4
+size = 0x8c
+last_change = 2023-11-18T16:36:17.229167Z
+
+[header]
+name = "Command_LOAD_MISSION_AUDIO_SLOT_NAME"
+addr = 0x8a8ccb4
+
+[stack_vars.-0x20]
+offset = -32
+name = "local_20"
+type = "int"
+size = 0x4
+addr = 0x8a8ccb4
