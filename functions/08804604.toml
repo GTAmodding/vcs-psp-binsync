@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8804604
+size = 0xf4
+last_change = 2023-11-18T16:37:36.548238Z
+
+[header]
+name = "Command_GET_DISTANCE_BETWEEN_COORDS_2D_AND_STORE_TO"
+addr = 0x8804604
