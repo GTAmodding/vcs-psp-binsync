@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x88047e8
+size = 0xa0
+last_change = 2023-11-18T16:42:49.259724Z
+
+[header]
+name = "Command_GET_DOT_PRODUCT_OF_2D_VECTORS_AND_STORE_TO"
+addr = 0x88047e8
