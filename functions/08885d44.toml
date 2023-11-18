@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8885d44
+size = 0x84
+last_change = 2023-11-18T16:40:42.918893Z
+
+[header]
+name = "Command_PLAYER_MADE_PROGRESS"
+addr = 0x8885d44
