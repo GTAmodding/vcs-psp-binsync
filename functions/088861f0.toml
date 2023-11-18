@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x88861f0
+size = 0xd4
+last_change = 2023-11-18T16:34:56.032009Z
+
+[header]
+name = "Command_GET_WHEELIE_STATS_STORE_TWO_WHEEL_INFO_TO_WHEELIE_INFO_TO_STOPPIE_INFO_TO"
+addr = 0x88861f0
