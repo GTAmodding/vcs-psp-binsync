@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x89d80ac
+size = 0x5c
+last_change = 2023-11-18T16:34:01.363900Z
+
+[header]
+name = "Command_CLOSE_GARAGE"
+addr = 0x89d80ac
