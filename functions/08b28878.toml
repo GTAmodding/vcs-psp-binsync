@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b28878
+size = 0x48
+last_change = 2023-11-18T16:41:13.870130Z
+
+[header]
+name = "Command_CLEAR_LEADER"
+addr = 0x8b28878
