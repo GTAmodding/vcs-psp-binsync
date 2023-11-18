@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a14434
+size = 0x44
+last_change = 2023-11-18T16:42:58.065233Z
+
+[header]
+name = "Command_RESET_CAR_NUM_COLLIDED_ENTITIES"
+addr = 0x8a14434
