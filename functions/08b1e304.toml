@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b1e304
+size = 0xb0
+last_change = 2023-11-18T16:42:50.924654Z
+
+[header]
+name = "Command_DOES_GAME_WANT_TO_DRAW_HUD"
+addr = 0x8b1e304
