@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a78f24
+size = 0x10c
+last_change = 2023-11-18T16:39:19.837685Z
+
+[header]
+name = "Command_ADD_BLIP_FOR_CHAR_STORE_TO"
+addr = 0x8a78f24
