@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a57d94
+size = 0x2c
+last_change = 2023-11-18T16:40:24.971654Z
+
+[header]
+name = "Command_UNKNOWN_CAR_COMMAND_8533_FLAGS"
+addr = 0x8a57d94
