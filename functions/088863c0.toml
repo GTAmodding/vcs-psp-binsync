@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x88863c0
+size = 0x4c
+last_change = 2023-11-18T16:35:46.078548Z
+
+[header]
+name = "Command_GET_PROGRESS_PERCENTAGE"
+addr = 0x88863c0
