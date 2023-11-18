@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a79a58
+size = 0x5c
+last_change = 2023-11-18T16:38:03.834411Z
+
+[header]
+name = "Command_SET_RADAR_ZOOM"
+addr = 0x8a79a58
