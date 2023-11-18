@@ -1,0 +1,15 @@
+[metadata]
+addr = 0x8a85a28
+size = 0xfc
+last_change = 2023-11-18T16:38:04.761893Z
+
+[header]
+name = "Command_ADD_PAGER_MESSAGE"
+addr = 0x8a85a28
+
+[stack_vars.-0x20]
+offset = -32
+name = "local_20"
+type = "int"
+size = 0x4
+addr = 0x8a85a28
