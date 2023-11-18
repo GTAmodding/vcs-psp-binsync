@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x887e4a8
+size = 0x88
+last_change = 2023-11-18T16:34:29.989689Z
+
+[header]
+name = "Command_SET_EMPIRE_STATE_STATE"
+addr = 0x887e4a8
