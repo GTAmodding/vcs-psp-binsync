@@ -1,0 +1,29 @@
+[metadata]
+addr = 0x898f868
+size = 0xc4
+last_change = 2023-11-18T16:35:17.031254Z
+
+[header]
+name = "Command_POINT_CAMERA_AT_POINT_SWITCHSTYLE"
+addr = 0x898f868
+
+[stack_vars.-0x30]
+offset = -48
+name = "local_30"
+type = "int"
+size = 0x4
+addr = 0x898f868
+
+[stack_vars.-0x2c]
+offset = -44
+name = "local_2c"
+type = "int"
+size = 0x4
+addr = 0x898f868
+
+[stack_vars.-0x28]
+offset = -40
+name = "local_28"
+type = "float"
+size = 0x4
+addr = 0x898f868
