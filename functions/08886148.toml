@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8886148
+size = 0x20
+last_change = 2023-11-18T16:38:37.220653Z
+
+[header]
+name = "Command_REGISTER_CRIMINAL_CAUGHT"
+addr = 0x8886148
