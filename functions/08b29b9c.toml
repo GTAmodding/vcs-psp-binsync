@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b29b9c
+size = 0x94
+last_change = 2023-11-18T16:40:06.177027Z
+
+[header]
+name = "Command_SET_CHAR_ACCURACY_TO"
+addr = 0x8b29b9c
