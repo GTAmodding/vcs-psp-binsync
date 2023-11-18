@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b29418
+size = 0xfc
+last_change = 2023-11-18T16:40:16.592271Z
+
+[header]
+name = "Command_IS_CURRENT_CHAR_WEAPON_WEAPON"
+addr = 0x8b29418
