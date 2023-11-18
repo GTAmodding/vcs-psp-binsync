@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8976900
+size = 0x68
+last_change = 2023-11-18T16:36:47.679833Z
+
+[header]
+name = "Command_UNKNOWN_EMPIRE_DISPLAY_SET_COORDS_7543"
+addr = 0x8976900
