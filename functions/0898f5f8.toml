@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x898f5f8
+size = 0x5c
+last_change = 2023-11-18T16:37:26.916988Z
+
+[header]
+name = "Command_SHAKE_CAM"
+addr = 0x898f5f8
