@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b2b648
+size = 0x8c
+last_change = 2023-11-18T16:38:02.821490Z
+
+[header]
+name = "Command_DETACH_CHAR_FROM_CAR"
+addr = 0x8b2b648
