@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x89dda40
+size = 0xd4
+last_change = 2023-11-18T16:38:39.983901Z
+
+[header]
+name = "Command_HAS_CUTSCENE_LOADED"
+addr = 0x89dda40
