@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a879c8
+size = 0x20
+last_change = 2023-11-18T16:36:55.926082Z
+
+[header]
+name = "Command_STORE_CLOCK"
+addr = 0x8a879c8
