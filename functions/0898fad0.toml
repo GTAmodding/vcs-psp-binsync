@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x898fad0
+size = 0x24
+last_change = 2023-11-18T16:34:42.984271Z
+
+[header]
+name = "Command_RESTORE_CAMERA_JUMPCUT"
+addr = 0x898fad0
