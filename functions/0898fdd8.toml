@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x898fdd8
+size = 0x5c
+last_change = 2023-11-18T16:34:02.086779Z
+
+[header]
+name = "Command_GET_ACTIVE_CAMERA_COORDINATES"
+addr = 0x898fdd8
