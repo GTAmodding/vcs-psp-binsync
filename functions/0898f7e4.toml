@@ -1,0 +1,50 @@
+[metadata]
+addr = 0x898f7e4
+size = 0x84
+last_change = 2023-11-18T16:35:10.362931Z
+
+[header]
+name = "Command_SET_FIXED_CAMERA_POSITION_ROTATION"
+addr = 0x898f7e4
+
+[stack_vars.-0x30]
+offset = -48
+name = "local_30"
+type = "int"
+size = 0x4
+addr = 0x898f7e4
+
+[stack_vars.-0x2c]
+offset = -44
+name = "local_2c"
+type = "int"
+size = 0x4
+addr = 0x898f7e4
+
+[stack_vars.-0x28]
+offset = -40
+name = "local_28"
+type = "int"
+size = 0x4
+addr = 0x898f7e4
+
+[stack_vars.-0x20]
+offset = -32
+name = "local_20"
+type = "int"
+size = 0x4
+addr = 0x898f7e4
+
+[stack_vars.-0x1c]
+offset = -28
+name = "local_1c"
+type = "int"
+size = 0x4
+addr = 0x898f7e4
+
+[stack_vars.-0x18]
+offset = -24
+name = "local_18"
+type = "int"
+size = 0x4
+addr = 0x898f7e4
