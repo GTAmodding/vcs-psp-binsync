@@ -1,0 +1,29 @@
+[metadata]
+addr = 0x8933820
+size = 0x19c
+last_change = 2023-11-18T16:41:46.214351Z
+
+[header]
+name = "Command_ADD_FIGHT_RING_STATIC_SHADOW_AT_COORDS_RGB_INTENSITY_RADIUS"
+addr = 0x8933820
+
+[stack_vars.-0x20]
+offset = -32
+name = "local_20"
+type = "int"
+size = 0x4
+addr = 0x8933820
+
+[stack_vars.-0x1c]
+offset = -28
+name = "local_1c"
+type = "int"
+size = 0x4
+addr = 0x8933820
+
+[stack_vars.-0x18]
+offset = -24
+name = "local_18"
+type = "int"
+size = 0x4
+addr = 0x8933820
