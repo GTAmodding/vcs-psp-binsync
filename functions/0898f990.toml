@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x898f990
+size = 0x90
+last_change = 2023-11-18T16:35:54.578129Z
+
+[header]
+name = "Command_DO_FADE_FADE"
+addr = 0x898f990
