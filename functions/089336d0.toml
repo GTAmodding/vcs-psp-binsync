@@ -1,0 +1,36 @@
+[metadata]
+addr = 0x89336d0
+size = 0xb0
+last_change = 2023-11-18T16:41:44.802123Z
+
+[header]
+name = "Command_UNKNOWN_GET_COORDS_COMMAND_8316_STORE_TO"
+addr = 0x89336d0
+
+[stack_vars.-0x20]
+offset = -32
+name = "auStack32"
+type = "undefined[4]"
+size = 0x4
+addr = 0x89336d0
+
+[stack_vars.-0x30]
+offset = -48
+name = "local_30"
+type = "int"
+size = 0x4
+addr = 0x89336d0
+
+[stack_vars.-0x2c]
+offset = -44
+name = "local_2c"
+type = "int"
+size = 0x4
+addr = 0x89336d0
+
+[stack_vars.-0x28]
+offset = -40
+name = "local_28"
+type = "int"
+size = 0x4
+addr = 0x89336d0
