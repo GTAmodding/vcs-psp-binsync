@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a8cab8
+size = 0xdc
+last_change = 2023-11-18T16:36:39.879632Z
+
+[header]
+name = "Command_ADD_CONTINUOUS_SOUND"
+addr = 0x8a8cab8
