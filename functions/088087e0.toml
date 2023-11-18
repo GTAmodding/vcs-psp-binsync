@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x88087e0
+size = 0x7c
+last_change = 2023-11-18T16:33:49.475912Z
+
+[header]
+name = "Command_SET_CHAR_OBJ_DESTROY_CAR_CAR"
+addr = 0x88087e0
