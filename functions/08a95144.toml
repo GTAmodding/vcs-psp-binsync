@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a95144
+size = 0x58
+last_change = 2023-11-18T16:33:48.705984Z
+
+[header]
+name = "Command_SET_GANG_PRIMARY_WEAPON_TO_SECONDARY_WEAPON_TO"
+addr = 0x8a95144
