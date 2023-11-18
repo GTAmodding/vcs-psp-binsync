@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b27530
+size = 0x228
+last_change = 2023-11-18T16:42:19.259273Z
+
+[header]
+name = "Command_STORE_CAR_CHAR_IS_IN_STORE_TO"
+addr = 0x8b27530
