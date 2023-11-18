@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b2c654
+size = 0x78
+last_change = 2023-11-18T16:37:03.807474Z
+
+[header]
+name = "Command_GET_CHAR_ARMOUR_STORE_TO"
+addr = 0x8b2c654
