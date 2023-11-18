@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a8d040
+size = 0x44
+last_change = 2023-11-18T16:35:39.363583Z
+
+[header]
+name = "Command_PLAY_END_OF_GAME_TUNE"
+addr = 0x8a8d040
