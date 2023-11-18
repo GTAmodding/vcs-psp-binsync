@@ -1,0 +1,29 @@
+[metadata]
+addr = 0x8b285bc
+size = 0x148
+last_change = 2023-11-18T16:41:25.853169Z
+
+[header]
+name = "Command_TURN_CHAR_TO_FACE_COORD_AT"
+addr = 0x8b285bc
+
+[stack_vars.-0x3c]
+offset = -60
+name = "uStack60"
+type = "undefined4"
+size = 0x4
+addr = 0x8b285bc
+
+[stack_vars.-0x40]
+offset = -64
+name = "local_40"
+type = "float"
+size = 0x4
+addr = 0x8b285bc
+
+[stack_vars.-0x38]
+offset = -56
+name = "uStack56"
+type = "undefined4"
+size = 0x4
+addr = 0x8b285bc
