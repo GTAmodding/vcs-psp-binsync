@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x898fbe4
+size = 0x50
+last_change = 2023-11-18T16:34:15.234255Z
+
+[header]
+name = "Command_SET_GENERATE_CARS_AROUND_CAMERA"
+addr = 0x898fbe4
