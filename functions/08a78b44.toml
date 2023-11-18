@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a78b44
+size = 0x54
+last_change = 2023-11-18T16:40:44.097386Z
+
+[header]
+name = "Command_REMOVE_BLIP"
+addr = 0x8a78b44
