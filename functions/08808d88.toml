@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8808d88
+size = 0x80
+last_change = 2023-11-18T16:37:11.668566Z
+
+[header]
+name = "Command_SET_CHAR_FOLLOW_ROUTE"
+addr = 0x8808d88
