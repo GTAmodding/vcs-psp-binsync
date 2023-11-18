@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a87860
+size = 0x80
+last_change = 2023-11-18T16:38:12.571921Z
+
+[header]
+name = "Command_GET_MINUTES_TO_TIME_OF_DAY_STORE_TO"
+addr = 0x8a87860
