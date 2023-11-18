@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a87924
+size = 0x44
+last_change = 2023-11-18T16:37:19.244786Z
+
+[header]
+name = "Command_FORCE_WEATHER_NOW"
+addr = 0x8a87924
