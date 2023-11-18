@@ -1,0 +1,29 @@
+[metadata]
+addr = 0x8a8d29c
+size = 0x12c
+last_change = 2023-11-18T16:35:17.385576Z
+
+[header]
+name = "Command_LOAD_MISSION_ENTITY_AUDIO_SOUND_SUBTITLE_SLOT_ENTITY"
+addr = 0x8a8d29c
+
+[stack_vars.-0x60]
+offset = -96
+name = "acStack96"
+type = "char[52]"
+size = 0x34
+addr = 0x8a8d29c
+
+[stack_vars.-0x28]
+offset = -40
+name = "local_28"
+type = "int"
+size = 0x4
+addr = 0x8a8d29c
+
+[stack_vars.-0x2c]
+offset = -44
+name = "local_2c"
+type = "int"
+size = 0x4
+addr = 0x8a8d29c
