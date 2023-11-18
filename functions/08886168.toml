@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8886168
+size = 0x3c
+last_change = 2023-11-18T16:35:23.863808Z
+
+[header]
+name = "Command_REGISTER_AMBULANCE_LEVEL"
+addr = 0x8886168
