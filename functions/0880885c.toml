@@ -1,0 +1,29 @@
+[metadata]
+addr = 0x880885c
+size = 0x134
+last_change = 2023-11-18T16:36:54.590683Z
+
+[header]
+name = "Command_SET_CHAR_OBJ_GOTO_AREA_ON_FOOT_CHAR_AREA_FROM_TO"
+addr = 0x880885c
+
+[stack_vars.-0x28]
+offset = -40
+name = "local_28"
+type = "float"
+size = 0x4
+addr = 0x880885c
+
+[stack_vars.-0x30]
+offset = -48
+name = "local_30"
+type = "float"
+size = 0x4
+addr = 0x880885c
+
+[stack_vars.-0x2c]
+offset = -44
+name = "local_2c"
+type = "float"
+size = 0x4
+addr = 0x880885c
