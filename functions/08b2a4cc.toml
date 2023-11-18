@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b2a4cc
+size = 0x108
+last_change = 2023-11-18T16:39:28.373181Z
+
+[header]
+name = "Command_HAS_CHAR_SPOTTED_CHAR_CHAR"
+addr = 0x8b2a4cc
