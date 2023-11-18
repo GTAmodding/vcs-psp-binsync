@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b2ad08
+size = 0x68
+last_change = 2023-11-18T16:38:38.122496Z
+
+[header]
+name = "Command_MAKE_CHAR_SAY"
+addr = 0x8b2ad08
