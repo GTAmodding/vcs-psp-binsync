@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a85c44
+size = 0xc8
+last_change = 2023-11-18T16:37:54.416777Z
+
+[header]
+name = "Command_IS_HELP_MESSAGE_BEING_DISPLAYED"
+addr = 0x8a85c44
