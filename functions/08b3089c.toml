@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b3089c
+size = 0x98
+last_change = 2023-11-18T16:34:08.429138Z
+
+[header]
+name = "Command_UNKNOWN_ATTACHED_PLAYER_SET_ANGLE_COMMAND_B516_ANGLE"
+addr = 0x8b3089c
