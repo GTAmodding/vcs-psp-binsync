@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b2ba84
+size = 0x104
+last_change = 2023-11-18T16:37:46.131330Z
+
+[header]
+name = "Command_GET_NUMBER_OF_FOLLOWERS_STORE_TO"
+addr = 0x8b2ba84
