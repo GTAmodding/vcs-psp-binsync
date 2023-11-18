@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x888633c
+size = 0x84
+last_change = 2023-11-18T16:34:56.652719Z
+
+[header]
+name = "Command_GET_PLAYER_STORE_COACH_PASSENGERS_DROPPED_OFF_TO"
+addr = 0x888633c
