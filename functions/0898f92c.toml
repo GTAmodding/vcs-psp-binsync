@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x898f92c
+size = 0x64
+last_change = 2023-11-18T16:35:38.105688Z
+
+[header]
+name = "Command_SET_FADING_COLOUR"
+addr = 0x898f92c
