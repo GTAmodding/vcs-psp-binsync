@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x88862c4
+size = 0x3c
+last_change = 2023-11-18T16:34:15.686359Z
+
+[header]
+name = "Command_ADD_TO_MONEY_SPENT_ON_WEAPONS_STATS"
+addr = 0x88862c4
