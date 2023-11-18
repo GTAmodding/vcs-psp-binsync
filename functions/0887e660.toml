@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x887e660
+size = 0x84
+last_change = 2023-11-18T16:38:01.917407Z
+
+[header]
+name = "Command_GET_EMPIRE_TYPE_STORE_TO"
+addr = 0x887e660
