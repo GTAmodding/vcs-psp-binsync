@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a8cfe8
+size = 0x58
+last_change = 2023-11-18T16:35:53.205904Z
+
+[header]
+name = "Command_SET_MUSIC_DOES_FADE"
+addr = 0x8a8cfe8
