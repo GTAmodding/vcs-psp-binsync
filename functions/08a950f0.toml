@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a950f0
+size = 0x54
+last_change = 2023-11-18T16:33:48.571172Z
+
+[header]
+name = "Command_SET_GANG_CAR_MODEL_TO"
+addr = 0x8a950f0
