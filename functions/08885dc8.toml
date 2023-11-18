@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8885dc8
+size = 0x44
+last_change = 2023-11-18T16:39:37.672530Z
+
+[header]
+name = "Command_SET_PROGRESS_TOTAL"
+addr = 0x8885dc8
