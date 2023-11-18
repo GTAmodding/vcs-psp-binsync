@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8885fbc
+size = 0x3c
+last_change = 2023-11-18T16:37:27.708841Z
+
+[header]
+name = "Command_SET_TOTAL_UNIQUE_JUMPS_TO"
+addr = 0x8885fbc
