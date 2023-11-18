@@ -1,0 +1,29 @@
+[metadata]
+addr = 0x887e1a4
+size = 0xb4
+last_change = 2023-11-18T16:40:31.659708Z
+
+[header]
+name = "Command_UNKNOWN_EMPIRE_SYSTEM_COMMAND_2858_STORE_TO"
+addr = 0x887e1a4
+
+[stack_vars.-0x28]
+offset = -40
+name = "local_28"
+type = "int"
+size = 0x4
+addr = 0x887e1a4
+
+[stack_vars.-0x30]
+offset = -48
+name = "local_30"
+type = "int"
+size = 0x4
+addr = 0x887e1a4
+
+[stack_vars.-0x2c]
+offset = -44
+name = "local_2c"
+type = "int"
+size = 0x4
+addr = 0x887e1a4
