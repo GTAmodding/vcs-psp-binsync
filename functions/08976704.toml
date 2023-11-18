@@ -1,0 +1,64 @@
+[metadata]
+addr = 0x8976704
+size = 0xd4
+last_change = 2023-11-18T16:37:10.242938Z
+
+[header]
+name = "Command_UNKNOWN_EMPIRE_DISPLAY_COMMAND_5737"
+addr = 0x8976704
+
+[stack_vars.-0x20]
+offset = -32
+name = "local_20"
+type = "undefined"
+size = 0x1
+addr = 0x8976704
+
+[stack_vars.-0x1f]
+offset = -31
+name = "local_1f"
+type = "undefined"
+size = 0x1
+addr = 0x8976704
+
+[stack_vars.-0x1e]
+offset = -30
+name = "local_1e"
+type = "undefined"
+size = 0x1
+addr = 0x8976704
+
+[stack_vars.-0x1d]
+offset = -29
+name = "local_1d"
+type = "undefined"
+size = 0x1
+addr = 0x8976704
+
+[stack_vars.-0x1c]
+offset = -28
+name = "local_1c"
+type = "undefined"
+size = 0x1
+addr = 0x8976704
+
+[stack_vars.-0x1b]
+offset = -27
+name = "local_1b"
+type = "undefined"
+size = 0x1
+addr = 0x8976704
+
+[stack_vars.-0x1a]
+offset = -26
+name = "local_1a"
+type = "undefined"
+size = 0x1
+addr = 0x8976704
+
+[stack_vars.-0x19]
+offset = -25
+name = "local_19"
+type = "undefined"
+size = 0x1
+addr = 0x8976704
