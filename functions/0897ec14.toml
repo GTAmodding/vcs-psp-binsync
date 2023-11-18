@@ -1,0 +1,29 @@
+[metadata]
+addr = 0x897ec14
+size = 0xb4
+last_change = 2023-11-18T16:36:23.649857Z
+
+[header]
+name = "Command_ADD_HOSPITAL_RESTART_ANGLE"
+addr = 0x897ec14
+
+[stack_vars.-0x30]
+offset = -48
+name = "local_30"
+type = "int"
+size = 0x4
+addr = 0x897ec14
+
+[stack_vars.-0x2c]
+offset = -44
+name = "local_2c"
+type = "int"
+size = 0x4
+addr = 0x897ec14
+
+[stack_vars.-0x28]
+offset = -40
+name = "local_28"
+type = "float"
+size = 0x4
+addr = 0x897ec14
