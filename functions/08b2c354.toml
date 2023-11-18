@@ -1,0 +1,29 @@
+[metadata]
+addr = 0x8b2c354
+size = 0xdc
+last_change = 2023-11-18T16:37:12.435791Z
+
+[header]
+name = "Command_GET_OFFSET_FROM_CHAR_IN_WORLD_COORDS_OFFSET_STORE_TO"
+addr = 0x8b2c354
+
+[stack_vars.-0x40]
+offset = -64
+name = "local_40"
+type = "int"
+size = 0x4
+addr = 0x8b2c354
+
+[stack_vars.-0x38]
+offset = -56
+name = "local_38"
+type = "int"
+size = 0x4
+addr = 0x8b2c354
+
+[stack_vars.-0x3c]
+offset = -60
+name = "local_3c"
+type = "int"
+size = 0x4
+addr = 0x8b2c354
