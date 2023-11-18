@@ -1,0 +1,57 @@
+[metadata]
+addr = 0x8a14478
+size = 0x1a8
+last_change = 2023-11-18T16:42:59.807970Z
+
+[header]
+name = "Command_CREATE_FLYING_PROJECTILE_SHOT_BY_CAR_WEAPON_TYPE_START_COORDS_TARGET_COORDS_POWER_SHOOTING_CAR_HANDLE_FLAG_STORE_TO"
+addr = 0x8a14478
+
+[stack_vars.-0x50]
+offset = -80
+name = "local_50"
+type = "int"
+size = 0x4
+addr = 0x8a14478
+
+[stack_vars.-0x4c]
+offset = -76
+name = "local_4c"
+type = "int"
+size = 0x4
+addr = 0x8a14478
+
+[stack_vars.-0x48]
+offset = -72
+name = "local_48"
+type = "float"
+size = 0x4
+addr = 0x8a14478
+
+[stack_vars.-0x40]
+offset = -64
+name = "local_40"
+type = "int"
+size = 0x4
+addr = 0x8a14478
+
+[stack_vars.-0x3c]
+offset = -60
+name = "local_3c"
+type = "int"
+size = 0x4
+addr = 0x8a14478
+
+[stack_vars.-0x38]
+offset = -56
+name = "local_38"
+type = "float"
+size = 0x4
+addr = 0x8a14478
+
+[stack_vars.-0x30]
+offset = -48
+name = "local_30"
+type = "float"
+size = 0x4
+addr = 0x8a14478
