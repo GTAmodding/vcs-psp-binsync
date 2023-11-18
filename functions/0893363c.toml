@@ -1,0 +1,22 @@
+[metadata]
+addr = 0x893363c
+size = 0x94
+last_change = 2023-11-18T16:42:41.544642Z
+
+[header]
+name = "Command_UNKNOWN_COMMAND_7395_STORE_TO"
+addr = 0x893363c
+
+[stack_vars.-0x30]
+offset = -48
+name = "auStack48"
+type = "undefined[16]"
+size = 0x10
+addr = 0x893363c
+
+[stack_vars.-0x20]
+offset = -32
+name = "local_20"
+type = "int"
+size = 0x4
+addr = 0x893363c
