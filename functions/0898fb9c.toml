@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x898fb9c
+size = 0x24
+last_change = 2023-11-18T16:34:29.499588Z
+
+[header]
+name = "Command_SET_CAMERA_BEHIND_PLAYER"
+addr = 0x898fb9c
