@@ -1,0 +1,50 @@
+[metadata]
+addr = 0x8a9247c
+size = 0x124
+last_change = 2023-11-18T16:34:15.464154Z
+
+[header]
+name = "Command_GET_CLOSEST_CAR_NODE_STORE_TO"
+addr = 0x8a9247c
+
+[stack_vars.-0x40]
+offset = -64
+name = "local_40"
+type = "int"
+size = 0x4
+addr = 0x8a9247c
+
+[stack_vars.-0x38]
+offset = -56
+name = "local_38"
+type = "float"
+size = 0x4
+addr = 0x8a9247c
+
+[stack_vars.-0x3c]
+offset = -60
+name = "local_3c"
+type = "int"
+size = 0x4
+addr = 0x8a9247c
+
+[stack_vars.-0x2c]
+offset = -44
+name = "local_2c"
+type = "int"
+size = 0x4
+addr = 0x8a9247c
+
+[stack_vars.-0x30]
+offset = -48
+name = "local_30"
+type = "int"
+size = 0x4
+addr = 0x8a9247c
+
+[stack_vars.-0x28]
+offset = -40
+name = "local_28"
+type = "int"
+size = 0x4
+addr = 0x8a9247c
