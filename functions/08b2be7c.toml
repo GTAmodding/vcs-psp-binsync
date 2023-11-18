@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b2be7c
+size = 0x5c
+last_change = 2023-11-18T16:37:37.289896Z
+
+[header]
+name = "Command_SET_THREAT_REACTION_RANGE_MULTIPLIER"
+addr = 0x8b2be7c
