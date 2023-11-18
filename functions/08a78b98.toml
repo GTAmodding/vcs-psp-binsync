@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a78b98
+size = 0x64
+last_change = 2023-11-18T16:39:45.948550Z
+
+[header]
+name = "Command_CHANGE_BLIP_COLOUR_TO"
+addr = 0x8a78b98
