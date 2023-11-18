@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a8d214
+size = 0x44
+last_change = 2023-11-18T16:35:25.075793Z
+
+[header]
+name = "Command_GET_MISSION_AUDIO_SLOT_UNKNOWN_5634"
+addr = 0x8a8d214
