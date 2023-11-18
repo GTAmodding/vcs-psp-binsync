@@ -1,0 +1,15 @@
+[metadata]
+addr = 0x8886064
+size = 0xc4
+last_change = 2023-11-18T16:36:40.513024Z
+
+[header]
+name = "Command_REGISTER_MISSION_PASSED"
+addr = 0x8886064
+
+[stack_vars.-0x20]
+offset = -32
+name = "local_20"
+type = "int"
+size = 0x4
+addr = 0x8886064
