@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x887eb6c
+size = 0x34
+last_change = 2023-11-18T16:38:11.736926Z
+
+[header]
+name = "Command_UNKNOWN_DISABLE_EMPIRE_DISPLAY"
+addr = 0x887eb6c
