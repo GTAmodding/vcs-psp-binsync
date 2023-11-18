@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a85d0c
+size = 0x24
+last_change = 2023-11-18T16:37:43.820659Z
+
+[header]
+name = "Command_CLEAR_PAGER"
+addr = 0x8a85d0c
