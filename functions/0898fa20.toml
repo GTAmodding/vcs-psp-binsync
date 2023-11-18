@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x898fa20
+size = 0xb0
+last_change = 2023-11-18T16:34:42.406504Z
+
+[header]
+name = "Command_GET_FADING_STATUS"
+addr = 0x898fa20
