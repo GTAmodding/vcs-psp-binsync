@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a8d62c
+size = 0x6c
+last_change = 2023-11-18T16:34:43.248164Z
+
+[header]
+name = "Command_GET_RADIO_CHANNEL_ALL_VALUES"
+addr = 0x8a8d62c
