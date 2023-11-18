@@ -1,0 +1,120 @@
+[metadata]
+addr = 0x881a8f4
+size = 0xa8
+last_change = 2023-11-18T16:42:17.644930Z
+
+[header]
+name = "Command_UNKNOWN_COMMAND_3842"
+addr = 0x881a8f4
+
+[stack_vars.-0x14]
+offset = -20
+name = "uStack20"
+type = "undefined4"
+size = 0x4
+addr = 0x881a8f4
+
+[stack_vars.-0x50]
+offset = -80
+name = "local_50"
+type = "int"
+size = 0x4
+addr = 0x881a8f4
+
+[stack_vars.-0x40]
+offset = -64
+name = "local_40"
+type = "int"
+size = 0x4
+addr = 0x881a8f4
+
+[stack_vars.-0x30]
+offset = -48
+name = "local_30"
+type = "int"
+size = 0x4
+addr = 0x881a8f4
+
+[stack_vars.-0x2c]
+offset = -44
+name = "local_2c"
+type = "int"
+size = 0x4
+addr = 0x881a8f4
+
+[stack_vars.-0x28]
+offset = -40
+name = "local_28"
+type = "int"
+size = 0x4
+addr = 0x881a8f4
+
+[stack_vars.-0x20]
+offset = -32
+name = "local_20"
+type = "int"
+size = 0x4
+addr = 0x881a8f4
+
+[stack_vars.-0x1c]
+offset = -28
+name = "local_1c"
+type = "int"
+size = 0x4
+addr = 0x881a8f4
+
+[stack_vars.-0x4c]
+offset = -76
+name = "iStack76"
+type = "int"
+size = 0x4
+addr = 0x881a8f4
+
+[stack_vars.-0x18]
+offset = -24
+name = "local_18"
+type = "int"
+size = 0x4
+addr = 0x881a8f4
+
+[stack_vars.-0x44]
+offset = -68
+name = "uStack68"
+type = "undefined4"
+size = 0x4
+addr = 0x881a8f4
+
+[stack_vars.-0x48]
+offset = -72
+name = "iStack72"
+type = "int"
+size = 0x4
+addr = 0x881a8f4
+
+[stack_vars.-0x3c]
+offset = -60
+name = "iStack60"
+type = "int"
+size = 0x4
+addr = 0x881a8f4
+
+[stack_vars.-0x34]
+offset = -52
+name = "uStack52"
+type = "undefined4"
+size = 0x4
+addr = 0x881a8f4
+
+[stack_vars.-0x38]
+offset = -56
+name = "iStack56"
+type = "int"
+size = 0x4
+addr = 0x881a8f4
+
+[stack_vars.-0x24]
+offset = -36
+name = "uStack36"
+type = "undefined4"
+size = 0x4
+addr = 0x881a8f4
