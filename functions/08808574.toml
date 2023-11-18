@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8808574
+size = 0x7c
+last_change = 2023-11-18T16:35:38.499778Z
+
+[header]
+name = "Command_SET_CHAR_OBJ_GOTO_CHAR_ON_FOOT_CHAR"
+addr = 0x8808574
