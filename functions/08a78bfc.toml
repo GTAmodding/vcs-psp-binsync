@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a78bfc
+size = 0x64
+last_change = 2023-11-18T16:39:47.083565Z
+
+[header]
+name = "Command_DIM_BLIP_BRIGHTNESS_TO"
+addr = 0x8a78bfc
