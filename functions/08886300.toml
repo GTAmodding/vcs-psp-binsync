@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8886300
+size = 0x3c
+last_change = 2023-11-18T16:34:29.037462Z
+
+[header]
+name = "Command_SAVE_HIGHEST_VIGILANTE_LEVEL"
+addr = 0x8886300
