@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b28b0c
+size = 0xdc
+last_change = 2023-11-18T16:40:54.874435Z
+
+[header]
+name = "Command_SET_CHAR_HEALTH_TO"
+addr = 0x8b28b0c
