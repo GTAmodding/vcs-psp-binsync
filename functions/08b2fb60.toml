@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b2fb60
+size = 0x90
+last_change = 2023-11-18T16:34:42.671007Z
+
+[header]
+name = "Command_GET_DEAD_CHAR_COORDINATES_STORE_TO"
+addr = 0x8b2fb60
