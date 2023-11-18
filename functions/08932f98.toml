@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8932f98
+size = 0x50
+last_change = 2023-11-18T16:43:01.664664Z
+
+[header]
+name = "Command_SET_ALLOWED_COLLISION_FOR_LEVEL_LEVEL"
+addr = 0x8932f98
