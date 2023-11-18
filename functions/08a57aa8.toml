@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a57aa8
+size = 0x2c
+last_change = 2023-11-18T16:41:02.138330Z
+
+[header]
+name = "Command_SAVE_INT_TO_DEBUG_FILE"
+addr = 0x8a57aa8
