@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x898f73c
+size = 0x84
+last_change = 2023-11-18T16:36:08.769029Z
+
+[header]
+name = "Command_POINT_CAMERA_AT_CHAR_MODE_SWITCHSTYLE"
+addr = 0x898f73c
