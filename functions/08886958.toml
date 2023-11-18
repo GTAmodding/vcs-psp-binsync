@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8886958
+size = 0x54
+last_change = 2023-11-18T16:39:09.652182Z
+
+[header]
+name = "Command_REGISTER_FASTEST_TIME_ON_HARBOR_HOVER_RACE"
+addr = 0x8886958
