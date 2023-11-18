@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8808010
+size = 0xd4
+last_change = 2023-11-18T16:35:03.118537Z
+
+[header]
+name = "Command_IS_CHAR_OBJECTIVE_PASSED"
+addr = 0x8808010
