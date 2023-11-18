@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b2f8ec
+size = 0x90
+last_change = 2023-11-18T16:34:49.544924Z
+
+[header]
+name = "Command_GET_OBJECT_HEADING_VECTOR_INVERSE_SQUARED_X_STORE_TO"
+addr = 0x8b2f8ec
