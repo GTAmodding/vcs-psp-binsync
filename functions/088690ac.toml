@@ -1,79 +1,8 @@
 [metadata]
-addr = 0x88690ac
-size = 0x740
-last_change = 2023-11-15T18:09:00.266999Z
+addr = 0x088690ac
+last_change = 2023-11-20T18:14:13.207413Z
 
 [header]
-last_change = 2023-11-15T18:08:54.770944Z
-name = "CTheScripts::Init"
-addr = 0x88690ac
-type = "int"
-
-[stack_vars.-0x68]
-offset = 0x0
-name = "v37"
-type = "float[4]"
-size = 0x10
-addr = 0x88690ac
-
-[stack_vars.-0x58]
-offset = 0x10
-name = "v38"
-type = "char[4]"
-size = 0x4
-addr = 0x88690ac
-
-[stack_vars.-0x54]
-offset = 0x14
-name = "v39"
-type = "char[4]"
-size = 0x4
-addr = 0x88690ac
-
-[stack_vars.-0x50]
-offset = 0x18
-name = "v40"
-type = "int"
-size = 0x4
-addr = 0x88690ac
-
-[stack_vars.-0x4c]
-offset = 0x1c
-name = "v41"
-type = "char *"
-size = 0x4
-addr = 0x88690ac
-
-[stack_vars.-0x48]
-offset = 0x20
-name = "v42"
-type = "char *"
-size = 0x4
-addr = 0x88690ac
-
-[stack_vars.-0x44]
-offset = 0x24
-name = "v43"
-type = "_DWORD *"
-size = 0x4
-addr = 0x88690ac
-
-[stack_vars.-0x40]
-offset = 0x28
-name = "v44"
-type = "unsigned char"
-size = 0x1
-addr = 0x88690ac
-
-[stack_vars.-0x3c]
-offset = 0x2c
-name = "v45"
-type = "int"
-size = 0x4
-addr = 0x88690ac
-
-[header.args.0]
-offset = 0x0
-name = "a1"
-type = "unsigned char"
-size = 0x1
+last_change = 2023-11-20T18:13:58.019179Z
+name = "Init"
+addr = 0x088690ac

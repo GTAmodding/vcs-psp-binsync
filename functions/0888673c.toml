@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x0888673c
+last_change = 2023-11-20T18:14:13.207413Z
+
+[header]
+last_change = 2023-11-20T18:13:58.019179Z
+name = "Command_SET_NUMBER_OF_EMPIRE_BUSINESS_SITES_OWNED_BY_PLAYER_BUSINESS_TYPE_NUMBER"
+addr = 0x0888673c
