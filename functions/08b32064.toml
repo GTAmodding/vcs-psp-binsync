@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b32064
+size = 0x1
+
+[header]
+last_change = 2023-11-20T18:13:58.019179Z
+name = "Command_CREATE_CHAR_AS_PASSENGER_PEDTYPE_MODEL_SEAT_STORE_TO"
+addr = 0x8b32064
