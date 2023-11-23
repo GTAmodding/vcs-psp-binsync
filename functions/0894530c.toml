@@ -1,0 +1,15 @@
+[metadata]
+addr = 0x894530c
+size = 0x8
+
+[header]
+last_change = 2023-11-15T18:09:20.875702Z
+name = "CVisibilityComponents::GetElementGroupAlpha"
+addr = 0x894530c
+type = "int"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
