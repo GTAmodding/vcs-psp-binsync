@@ -1,0 +1,48 @@
+[metadata]
+addr = 0x8aa32a4
+size = 0x338
+
+[header]
+last_change = 2023-11-15T18:13:58.848442Z
+name = "CVehicleModelInfo::PreprocessTree"
+addr = 0x8aa32a4
+type = "int"
+
+[stack_vars.-0x34]
+offset = 0x0
+name = "v28"
+type = "char *"
+size = 0x4
+addr = 0x8aa32a4
+
+[stack_vars.-0x30]
+offset = 0x4
+name = "v29"
+type = "int"
+size = 0x4
+addr = 0x8aa32a4
+
+[stack_vars.-0x2c]
+offset = 0x8
+name = "v30"
+type = "float[3]"
+size = 0xc
+addr = 0x8aa32a4
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "_DWORD *"
+size = 0x4
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "int"
+size = 0x4
