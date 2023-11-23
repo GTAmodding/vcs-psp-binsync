@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8a13230
+size = 0x1
+
+[header]
+last_change = 2023-11-20T18:13:58.019179Z
+name = "Command_SET_OBJECT_INITIAL_ROTATION_VELOCITY_ROTATION_VELOCITY"
+addr = 0x8a13230
