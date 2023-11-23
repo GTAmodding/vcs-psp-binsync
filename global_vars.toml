@@ -4,6 +4,12 @@ addr = 0x8baab84
 name = "ScriptSpace"
 size = 0x4
 
+[0x8bb194c]
+last_change = 2023-11-23T05:41:53.828094Z
+addr = 0x8bb194c
+name = "currArea"
+size = 0x4
+
 [0x8be4918]
 last_change = 2023-11-23T05:41:45.108411Z
 addr = 0x8be4918
