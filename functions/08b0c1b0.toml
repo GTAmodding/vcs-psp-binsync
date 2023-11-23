@@ -1,3 +1,44 @@
 [metadata]
 addr = 0x8b0c1b0
 size = 0x2dc
+
+[header]
+name = "CFont::PrintString"
+addr = 0x8b0c1b0
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "unsigned short *"
+size = 0x4
+
+[header.args.1]
+offset = 0x1
+name = "a2"
+type = "int"
+size = 0x4
+
+[header.args.2]
+offset = 0x2
+name = "a3"
+type = "int"
+size = 0x4
+
+[header.args.3]
+offset = 0x3
+name = "a4"
+type = "int"
+size = 0x4
+
+[header.args.4]
+offset = 0x4
+name = "a5"
+type = "float *"
+size = 0x4
+
+[header.args.5]
+offset = 0x5
+name = "a6"
+type = "unsigned char"
+size = 0x1
