@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x88870e4
+size = 0x1
+
+[header]
+last_change = 2023-11-20T18:13:58.019179Z
+name = "Command_REGISTER_BTRIAL_TIME_COURSE_TIME"
+addr = 0x88870e4
