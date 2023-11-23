@@ -1,0 +1,142 @@
+[metadata]
+name = "CRunningScript"
+size = 0x218
+last_change = 2023-11-23T05:41:32.143720Z
+
+[members.0x0]
+name = "prev"
+offset = 0x0
+type = "CRunningScript *"
+size = 0x4
+
+[members.0x4]
+name = "next"
+offset = 0x4
+type = "CRunningScript *"
+size = 0x4
+
+[members.0x8]
+name = "id"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "field_c"
+offset = 0xc
+type = "undefined"
+size = 0x1
+
+[members.0xd]
+name = "field_d"
+offset = 0xd
+type = "undefined"
+size = 0x1
+
+[members.0xe]
+name = "field_e"
+offset = 0xe
+type = "undefined"
+size = 0x1
+
+[members.0xf]
+name = "field_f"
+offset = 0xf
+type = "undefined"
+size = 0x1
+
+[members.0x10]
+name = "ip"
+offset = 0x10
+type = "uint"
+size = 0x4
+
+[members.0x14]
+name = "stack"
+offset = 0x14
+type = "int[16]"
+size = 0x40
+
+[members.0x54]
+name = "locals"
+offset = 0x54
+type = "int[106]"
+size = 0x1a8
+
+[members.0x1fc]
+name = "locals_pointer"
+offset = 0x1fc
+type = "int"
+size = 0x4
+
+[members.0x200]
+name = "m_nWakeTime"
+offset = 0x200
+type = "uint"
+size = 0x4
+
+[members.0x204]
+name = "sp"
+offset = 0x204
+type = "short"
+size = 0x2
+
+[members.0x206]
+name = "m_nAndOrState"
+offset = 0x206
+type = "short"
+size = 0x2
+
+[members.0x208]
+name = "m_bIsActive"
+offset = 0x208
+type = "bool"
+size = 0x1
+
+[members.0x209]
+name = "m_bCondResult"
+offset = 0x209
+type = "bool"
+size = 0x1
+
+[members.0x20a]
+name = "m_bIsMissionScript"
+offset = 0x20a
+type = "bool"
+size = 0x1
+
+[members.0x20b]
+name = "m_bSkipWakeTime"
+offset = 0x20b
+type = "bool"
+size = 0x1
+
+[members.0x20c]
+name = "m_bNotFlag"
+offset = 0x20c
+type = "bool"
+size = 0x1
+
+[members.0x20d]
+name = "m_bDeatharrestEnabled"
+offset = 0x20d
+type = "bool"
+size = 0x1
+
+[members.0x20e]
+name = "m_bDeatharrestExecuted"
+offset = 0x20e
+type = "bool"
+size = 0x1
+
+[members.0x20f]
+name = "m_abScriptName"
+offset = 0x20f
+type = "char[8]"
+size = 0x8
+
+[members.0x217]
+name = "m_bMissionFlag"
+offset = 0x217
+type = "bool"
+size = 0x1
