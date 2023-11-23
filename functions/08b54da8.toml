@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b54da8
+size = 0x1
+
+[header]
+last_change = 2023-11-20T18:13:58.019179Z
+name = "module_stop"
+addr = 0x8b54da8
