@@ -1,3 +1,14 @@
 [metadata]
 addr = 0x8b3c3bc
 size = 0x11d8
+
+[header]
+name = "CCutsceneMgr::LoadCutsceneData_preload"
+addr = 0x8b3c3bc
+type = "void"
+
+[header.args.0]
+offset = 0x0
+name = "a1"
+type = "int"
+size = 0x4
