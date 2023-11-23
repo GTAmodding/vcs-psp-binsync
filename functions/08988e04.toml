@@ -1,3 +1,7 @@
 [metadata]
 addr = 0x8988e04
 size = 0x2a8
+
+[header]
+name = "WeaponCheat1"
+addr = 0x8988e04
