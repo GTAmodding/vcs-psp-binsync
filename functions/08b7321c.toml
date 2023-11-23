@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8b7321c
+size = 0x1
+
+[header]
+last_change = 2023-11-20T18:13:58.019179Z
+name = "sceDisplayGetCurrentHcount"
+addr = 0x8b7321c
