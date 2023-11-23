@@ -1,3 +1,10 @@
 [metadata]
 addr = 0x8b3c030
 size = 0x320
+
+[stack_vars.0x8]
+offset = 0x8
+name = "v17"
+type = "int[2]"
+size = 0x8
+addr = 0x8b3c030
