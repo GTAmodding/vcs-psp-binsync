@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x89de204
+size = 0x1
+
+[header]
+last_change = 2023-11-20T18:13:58.019179Z
+name = "Command_IS_WANTED_LEVEL_GREATER_THAN"
+addr = 0x89de204
