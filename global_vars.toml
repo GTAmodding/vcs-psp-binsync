@@ -28,6 +28,12 @@ addr = 0x8bb3c74
 name = "pActiveScripts"
 size = 0x4
 
+[0x8bb442c]
+last_change = 2023-11-23T05:42:16.235257Z
+addr = 0x8bb442c
+name = "previousWeaponType"
+size = 0x4
+
 [0x8be4918]
 last_change = 2023-11-23T05:41:45.108411Z
 addr = 0x8be4918
