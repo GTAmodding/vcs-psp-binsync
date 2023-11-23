@@ -1,0 +1,8 @@
+[metadata]
+addr = 0x8886d48
+size = 0x1
+
+[header]
+last_change = 2023-11-20T18:13:58.019179Z
+name = "Command_REGISTER_WATERSPORTS_TIME_COURSE_TIME"
+addr = 0x8886d48
