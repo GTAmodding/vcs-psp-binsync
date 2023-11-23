@@ -1,0 +1,9 @@
+[metadata]
+addr = 0x88634dc
+size = 0x1c
+
+[header]
+last_change = 2023-11-15T18:08:54.477202Z
+name = "CTheScripts::StartTestScript"
+addr = 0x88634dc
+type = "int"
