@@ -10,6 +10,12 @@ addr = 0x8bb194c
 name = "currArea"
 size = 0x4
 
+[0x8bb3b44]
+last_change = 2023-11-23T05:41:57.594516Z
+addr = 0x8bb3b44
+name = "currLevel"
+size = 0x4
+
 [0x8be4918]
 last_change = 2023-11-23T05:41:45.108411Z
 addr = 0x8be4918
