@@ -1,8 +1,8 @@
 [metadata]
-addr = 0x08af3dbc
+addr = 0x8af3dbc
 last_change = 2023-11-20T18:14:13.207413Z
 
 [header]
 last_change = 2023-11-20T18:13:58.019179Z
 name = "Command_DISPLAY_ONSCREEN_TIMER_WITH_STRING_TYPE_GXT"
-addr = 0x08af3dbc
+addr = 0x8af3dbc

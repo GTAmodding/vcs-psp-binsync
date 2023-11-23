@@ -1,8 +1,8 @@
 [metadata]
-addr = 0x089ddfb4
+addr = 0x89ddfb4
 last_change = 2023-11-20T18:14:13.207413Z
 
 [header]
 last_change = 2023-11-20T18:13:58.019179Z
 name = "Command_STORE_SCORE_TO"
-addr = 0x089ddfb4
+addr = 0x89ddfb4

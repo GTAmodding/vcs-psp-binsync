@@ -1,8 +1,8 @@
 [metadata]
-addr = 0x08b2c768
+addr = 0x8b2c768
 last_change = 2023-11-20T18:14:13.207413Z
 
 [header]
 last_change = 2023-11-20T18:13:58.019179Z
 name = "Command_MOVE_CHAR_FROM_CAR_PASSENGERSEAT_TO_DRIVERSEAT"
-addr = 0x08b2c768
+addr = 0x8b2c768

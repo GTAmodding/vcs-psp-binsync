@@ -1,8 +1,8 @@
 [metadata]
-addr = 0x089df5bc
+addr = 0x89df5bc
 last_change = 2023-11-20T18:14:13.207413Z
 
 [header]
 last_change = 2023-11-20T18:13:58.019179Z
 name = "Command_SET_ENABLE_RC_DETONATE"
-addr = 0x089df5bc
+addr = 0x89df5bc

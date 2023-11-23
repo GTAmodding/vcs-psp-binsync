@@ -1,8 +1,8 @@
 [metadata]
-addr = 0x088841b8
+addr = 0x88841b8
 last_change = 2023-11-20T18:14:13.207413Z
 
 [header]
 last_change = 2023-11-20T18:13:58.019179Z
 name = "Command_REQUEST_ANIMATION"
-addr = 0x088841b8
+addr = 0x88841b8

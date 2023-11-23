@@ -1,8 +1,8 @@
 [metadata]
-addr = 0x08883e2c
+addr = 0x8883e2c
 last_change = 2023-11-20T18:14:13.207413Z
 
 [header]
 last_change = 2023-11-20T18:13:58.019179Z
 name = "Command_ADD_BIG_GUN_FLASH_TO"
-addr = 0x08883e2c
+addr = 0x8883e2c

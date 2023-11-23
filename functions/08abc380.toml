@@ -1,8 +1,8 @@
 [metadata]
-addr = 0x08abc380
+addr = 0x8abc380
 last_change = 2023-11-20T18:14:13.207413Z
 
 [header]
 last_change = 2023-11-20T18:13:58.019179Z
 name = "Command_ARGS_OUT_LOCALS_BASE_INDEX_CALL_FUNC"
-addr = 0x08abc380
+addr = 0x8abc380

@@ -1,8 +1,8 @@
 [metadata]
-addr = 0x0881a618
+addr = 0x881a618
 last_change = 2023-11-20T18:14:13.207413Z
 
 [header]
 last_change = 2023-11-20T18:13:58.019179Z
 name = "Command_REMOVE_PARTICLE_EFFECTS_IN_AREA"
-addr = 0x0881a618
+addr = 0x881a618

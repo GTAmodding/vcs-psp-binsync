@@ -1,8 +1,8 @@
 [metadata]
-addr = 0x08b7306c
+addr = 0x8b7306c
 last_change = 2023-11-20T18:14:13.207413Z
 
 [header]
 last_change = 2023-11-20T18:13:58.019179Z
 name = "sceNetInit"
-addr = 0x08b7306c
+addr = 0x8b7306c
